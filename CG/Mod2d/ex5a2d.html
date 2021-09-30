@@ -1,0 +1,25 @@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script>
+function main() {
+    let gc = document
+            .getElementById("acanvas")
+            .getContext("2d");
+    gc.beginPath()
+    gc.moveTo(0,100)
+    gc.arcTo(100,0,200,100,50)
+    gc.arcTo(100,30,0,100,50)
+    gc.stroke();
+    gc.fillStyle="red";
+    gc.fill();
+
+}
+    </script>
+</head>
+<body>
+    <canvas id="acanvas" width="200" height="200">
+        <script>main();</script>
+    </canvas>
+</body>
+</html>

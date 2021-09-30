@@ -1,0 +1,30 @@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script>
+        function main(){
+            let gc=document
+                .getElementById("acanvas")
+                .getContext("2d");
+            gc.fillStyle="steelblue"
+            gc.fillRect(0,0,516,516)
+
+            gc.beginPath();
+            gc.moveTo(0,0);
+            gc.quadraticCurveTo(516,0,516,516);
+            gc.moveTo(0,0)
+            gc.quadraticCurveTo(0,516,516,516);
+            //gc.lineTo(0.0);
+            gc.stroke();
+            gc.fillStyle="red";
+            gc.fill();
+            
+        }
+    </script>
+</head>
+<body>
+    <canvas id="acanvas" width="516" height="516">
+        <script>main();</script>
+    </canvas>
+</body>
+</html>
