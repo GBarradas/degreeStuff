@@ -1,0 +1,64 @@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script>
+        function main(){
+            let gc=document
+                .getElementById("acanvas")
+                .getContext("2d");
+            gc.translate(150,150);
+            gc.beginPath()
+            gc.moveTo(100,0)
+            gc.arcTo(0,0,0,100,100);
+            gc.arcTo(0,200,100,200,100);
+            gc.arcTo(50,200,50,150,50);
+            gc.arcTo(50,100,100,100,50);
+            gc.arcTo(150,100,150,50,50);;
+            gc.arcTo(150,0,100,0,50);
+            gc.moveTo(100,125);
+            gc.arcTo(75,125,75,150,25);
+            gc.arcTo(75,175,100,175,25);
+            gc.arcTo(125,175,125,150,25);
+            gc.arcTo(125,125,100,125,25);
+            gc.stroke()
+            gc.fillStyle="black"
+            gc.fill()
+            gc.beginPath()
+            gc.moveTo(100,0);
+            gc.arcTo(200,0,200,100,100);
+            gc.arcTo(200,200,100,200,100)
+            gc.stroke();
+            gc.beginPath();
+            gc.fillStyle="white"
+            gc.moveTo(100,25);
+            gc.arcTo(75,25,75,50,25);
+            gc.arcTo(75,75,100,75,25)
+            gc.arcTo(125,75,125,50,25)
+            gc.arcTo(125,25,100,25,25)
+            gc.stroke()
+            gc.fill()
+            
+        }
+    </script>
+</head>
+<body>
+    <h1>C2D</h1>
+    <canvas  style="border: 1px solid black;" id="acanvas" width="516" height="516">
+        <script >main();</script>
+    </canvas>
+    <br><br><h1>SVG</h1>
+    <svg style="border: 1px solid black;" width="516" height="516"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <linearGradient id="grad" >
+        <stop offset="0.5" stop-color="black" />
+        <stop offset="0.5" stop-color="white" />
+    </linearGradient>
+    <circle cx = "250" cy = "250" r = "200" fill="URL(#grad)" stroke="black" />
+    <circle cx="250" cy="150"  r="100" fill="black" />
+    <circle cx="250" cy="350" r="100" fill="white" />
+    <circle cx="250" cy="150" r="50" fill="white"  />
+    <circle cx="250" cy="350" r="50" fill="black" />
+    </svg>
+</body>
+</html>
