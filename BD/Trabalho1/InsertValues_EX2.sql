@@ -1,1 +1,15 @@
-
+insert into membro VALUES('Gonçalo','g@hotmail.com',2002);
+insert into membro VALUES('Maria','maria@gmail.pt',2001);
+insert into membro VALUES('Leonor ','leonor@yahoo.org',1976);
+insert into membro VALUES('Guilherme','gui@alunos.uevora.pt',1986);
+insert into membro VALUES('Silvia','silvia@frusoal.pt',1976);
+insert into membro VALUES('Ricardo','ricardo@eva.motorista.pt',1978);
+insert into membro VALUES('Patricia','Pat@live.com.pt',1998);
+insert into membro VALUES('Helder','Hell@yahoo.com',1999);
+insert into membro VALUES('Daniela','daniela@risco.fidelidade.pt',1999);
+insert into membro VALUES('Sandra','sandra.gestora@santander.com',1975);
+insert into membro VALUES('Carlos','carlos@piloto.tap.com',1967);
+insert into membro VALUES('andre','andre@it.siva.com',1995);
+insert into membro VALUES('Visa','visa@algarmanta.pt', 1981);
+insert into membro VALUES('Susana','susana@mar&sol.pt',1987);
+insert into membro VALUES('Ilidio','ilidio@rentaprtmr.pt',1986);
