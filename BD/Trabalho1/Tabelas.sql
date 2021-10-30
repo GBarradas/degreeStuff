@@ -5,8 +5,6 @@ CREATE TABLE Country(
  	Code VARCHAR(5) CONSTRAINT CountryKey PRIMARY KEY,
  	Capital VARCHAR(50),
  	Province VARCHAR(50),
- 	Area DECIMAL CONSTRAINT CountryArea
-   	CHECK (Area >= 0),
  	Population DECIMAL CONSTRAINT CountryPop
    	CHECK (Population >= 0)
 );
@@ -43,17 +41,32 @@ CREATE TABLE Continent(
    	CHECK ((Percentage > 0) AND (Percentage <= 100)),
  	constraint EncodeKey primary key (country, continent)
  );
+ create table Economy(
+ 	country varchar(5),
+   	GDP decimal(9),
+   	agriculture decimal,
+   	check((agriculture>=0)and(agriculture<=100)),
+   	industry decimal,
+   	check((industry>=0)and(industry<=100)),
+   	inflation decimal,
+   	uneployment decimal,
+   	check((uneployment>=0)and(uneployment<=100)),
+   	constraint economyKey primary key (country)
+ );
  create table Organization(
    	name varchar(100),
-   abreviation varchar(30),
-   city varchar(50),
-   county varchar(5),
-   province varchar(100),
-   dateOfEstablisment date,
-   CONSTRAINT OrganizationKey PRIMARY key (name,country)
+   	abreviation varchar(30),
+   	city varchar(50),
+   	country varchar(5),
+   	province varchar(100),
+   	CONSTRAINT OrganizationKey PRIMARY key (name,country)
+);
+create table isMember(
+	organization varchar(30),
+  	country varchar(5),
+  	type varchar(100),
+  	constraint memberKey primary Key(organization)
 );
    
    
-   
                                                       
-
