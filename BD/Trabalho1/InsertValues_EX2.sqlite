@@ -419,20 +419,67 @@ INSERT INTO gostade VALUES('Sandra','Romménia');
 INSERT INTO gostade VALUES('Sandra','Suécia');
 --Carlos likes
 
-
+INSERT INTO gostade VALUES('Carlos','Portugal');
+INSERT INTO gostade VALUES('Carlos','Angola');
+INSERT INTO gostade VALUES('Carlos','Guiné Equatorial');
+INSERT INTO gostade VALUES('Carlos','Cabo Verde');
+INSERT INTO gostade VALUES('Carlos','Guiné-Bissau');
+INSERT INTO gostade VALUES('Carlos','Moçambique');
+INSERT INTO gostade VALUES('Carlos','Brasil');
+INSERT INTO gostade VALUES('Carlos','Macau');
+INSERT INTO gostade VALUES('Carlos','São Tomé e Príncipe');
+INSERT INTO gostade VALUES('Carlos','Timor-Leste');
 
 --Andre
 
+INSERT INTO gostade VALUES('Andre','Portugal');
+INSERT INTO gostade VALUES('Andre','Angola');
+INSERT INTO gostade VALUES('Andre','Guiné Equatorial');
+INSERT INTO gostade VALUES('Andre','Cabo Verde');
+INSERT INTO gostade VALUES('Andre','Guiné-Bissau');
+INSERT INTO gostade VALUES('Andre','Moçambique');
+INSERT INTO gostade VALUES('Andre','Brasil');
+INSERT INTO gostade VALUES('Andre','Macau');
+INSERT INTO gostade VALUES('Andre','São Tomé e Príncipe');
+INSERT INTO gostade VALUES('Andre','Timor-Leste');
 
 
 --Visa
 
-
+INSERT INTO gostade VALUES('Visa','Portugal');
+INSERT INTO gostade VALUES('Visa','Angola');
+INSERT INTO gostade VALUES('Visa','Guiné Equatorial');
+INSERT INTO gostade VALUES('Visa','Cabo Verde');
+INSERT INTO gostade VALUES('Visa','Guiné-Bissau');
+INSERT INTO gostade VALUES('Visa','Moçambique');
+INSERT INTO gostade VALUES('Visa','Brasil');
+INSERT INTO gostade VALUES('Visa','Macau');
+INSERT INTO gostade VALUES('Visa','São Tomé e Príncipe');
+INSERT INTO gostade VALUES('Visa','Timor-Leste');
 
 --Susana
 
+INSERT INTO gostade VALUES('Susana','Portugal');
+INSERT INTO gostade VALUES('Susana','Angola');
+INSERT INTO gostade VALUES('Susana','Guiné Equatorial');
+INSERT INTO gostade VALUES('Susana','Cabo Verde');
+INSERT INTO gostade VALUES('Susana','Guiné-Bissau');
+INSERT INTO gostade VALUES('Susana','Moçambique');
+INSERT INTO gostade VALUES('Susana','Brasil');
+INSERT INTO gostade VALUES('Susana','Macau');
+INSERT INTO gostade VALUES('Susana','São Tomé e Príncipe');
+INSERT INTO gostade VALUES('Susana','Timor-Leste');
 
 
 --Ilidio
 
-
+INSERT INTO gostade VALUES('Ilidio','Portugal');
+INSERT INTO gostade VALUES('Ilidio','Angola');
+INSERT INTO gostade VALUES('Ilidio','Guiné Equatorial');
+INSERT INTO gostade VALUES('Ilidio','Cabo Verde');
+INSERT INTO gostade VALUES('Ilidio','Guiné-Bissau');
+INSERT INTO gostade VALUES('Ilidio','Moçambique');
+INSERT INTO gostade VALUES('Ilidio','Brasil');
+INSERT INTO gostade VALUES('Ilidio','Macau');
+INSERT INTO gostade VALUES('Ilidio','São Tomé e Príncipe');
+INSERT INTO gostade VALUES('Ilidio','Timor-Leste');
