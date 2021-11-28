@@ -7,9 +7,7 @@ import java.text.Normalizer;
 import java.lang.String;
 import java.lang.StringBuilder;
 
-
-			//siimmmmm
-public class Cipher {
+public class Cipherb {
     public static String normalize(String naturalText){
         String normalizado=new String();
         //Remover acentos e cedilhas 
@@ -23,30 +21,37 @@ public class Cipher {
         return normalizado;
     }
 
-    public static String encode(String plaintText,int cols){
-    //calcular o tamanho necessario para a cifra
-    int cipherLength=0;
-    String result=new String();
-    for(int i=1;cipherLength<plaintText.length();i++){
-        cipherLength=i*cols;
-    }
-    System.out.println(cipherLength);
-    //verificamos se é necessario acrescentar letras
-    if(cipherLength==plaintText.length()){
-        return print(plaintText,cipherLength,cols);
-        
-    }else{//acrescenta letras
-        Random r=new Random();
-        result=plaintText;
-        while(result.length()!=cipherLength){
-            result=result+plaintText.charAt(r.nextInt(plaintText.length()));
-        }
-        //print fudido
-        //int count=1;
-        return print(result,cipherLength,cols);
-    }      
+    public static String encode(String plainText, int cols){
+        plainText = normalize(plainText);
+        String s= plainText;
+        int linhas = plainText.length()/cols;
+        StringBuilder cifra = new StringBuilder();
+        //int numberchar = 0;
 
-    }
+        if(plainText.length()%cols!=0){
+            linhas+=1;
+            int numberchar = cols - plainText.length() % cols;
+            System.out.println(numberchar);
+            Random r = new Random();
+            for(int i=1; i<=numberchar; i++){
+                s=s+plainText.charAt(r.nextInt(plainText.length()-1));
+            }
+            System.out.println(s);
+            plainText = s;
+        }
+
+        for(int i=0; i<linhas; i++){
+            int lines = i;
+            for(int j=0; j<cols; j++){
+                cifra.append(plainText.charAt(lines));
+                lines+=linhas;
+            }
+        }
+        s = cifra.toString();
+        return s;
+
+    }     
+
     public static List<Integer> findDividers(int x){
         List<Integer> divisor=new ArrayList<Integer>();
         divisor.add(1);
@@ -76,7 +81,7 @@ public class Cipher {
        return cipher.toString();
     }
     public static void main(String[] Args){
-        System.out.println(encode("hojevamosaocinemaoupassearnojardimaecaoeav",4));
+        System.out.println(encode("bom dia alegria",4));
     }
     
     
