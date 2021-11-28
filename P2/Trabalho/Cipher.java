@@ -22,6 +22,7 @@ public class Cipher {
     }
 
     public static String encode(String plaintText,int cols){
+        plaintText=normalize(plaintText);
     //calcular o tamanho necessario para a cifra
     int cipherLength=0;
     String result=new String();
