@@ -1,4 +1,4 @@
-package Trabalho;
+//package Trabalho;
 import java.util.ArrayList;
 import java.util.List;
 //import java.lang.Character;
@@ -7,8 +7,6 @@ import java.text.Normalizer;
 import java.lang.String;
 import java.lang.StringBuilder;
 
-
-			//siimmmmm
 public class Cipher {
     public static String normalize(String naturalText){
         String normalizado=new String();
