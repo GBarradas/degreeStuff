@@ -53,7 +53,7 @@ public class Lol {
         for(int i=0;!isEqual(inicio, fim)&& i<inicio.size();i++){
             //System.out.println(inicio);
             if(inicio.get(i)==fim.get(i)){
-
+                troca++;
             }
             else{
                 //System.out.println("troca");
@@ -70,6 +70,7 @@ public class Lol {
         //System.out.println("-->"+inicio+"\n -->>>>"+troca);
         int winer=troca%nplayers;
         if(winer==0) winer=nplayers;
+        System.out.println("-->"+winer+"="+troca+"%"+nplayers);
         System.out.println(winer);
     }
 }
