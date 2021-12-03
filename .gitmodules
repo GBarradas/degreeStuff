@@ -7,3 +7,6 @@
 [submodule "MIUP"]
 	path = MIUP
 	url = https://github.com/GBarradas/MIUP
+[submodule "P2/Trabalho"]
+	path = P2/Trabalho
+	url = https://github.com/GBarradas/P2-Work
