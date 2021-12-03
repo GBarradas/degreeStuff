@@ -1,0 +1,7 @@
+[submodule "P1-mineweeper"]
+    path = P1-mineweeper
+    url = https://github.com/GBarradas/P1-mineweeper
+
+[submodule "PI/Final-Work"]
+	path = PI/Final-Work
+	url = https://github.com/MiguelNdeCarvalho/PI-Work
