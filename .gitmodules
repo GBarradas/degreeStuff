@@ -4,3 +4,6 @@
 [submodule "CG/Trabalho"]
 	path = CG/Trabalho
 	url = https://github.com/GBarradas/CG-Work
+[submodule "MIUP"]
+	path = MIUP
+	url = https://github.com/GBarradas/MIUP
