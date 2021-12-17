@@ -1,25 +1,25 @@
 drop table if exists animal cascade;
 create table animal(
-	nome
-  	IdAnimal  primary key;
-  	sexo
-  	dataNascimento char(8) --AAAAMMDD
+	nome varchar(100),
+  	idAnimal decimal primary key,
+  	sexo char(1),
+  	dataNascimento date --AAAAMMDD
 );
 Drop table if exists classBiologica cascade;
 create table classBiologica(
-	classe
-  	ordem
-  	familia
-  	especie
-  	primary key IdAnimal,
+	classe varchar(100),
+  	ordem varchar(100),
+  	familia varchar(100),
+  	especie varchar(100),
+  	IdAnimal decimal primary key,
   	FOREIGN key IdAnimal REFERENCES animal on DELETE RESTRICT
   
 );
 Drop Table if exists captura cascade;
 create table captura(
 	IdAnimal primary Key,
-  	localCaptura
-  	dataCaptura
+  	localCaptura varchar(100),
+  	dataCaptura DATE,
   	FOREIGN key IdAnimal REFERENCES animal on delete RESTRICT
   	
 );
