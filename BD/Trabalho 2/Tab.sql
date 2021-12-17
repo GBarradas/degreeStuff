@@ -3,8 +3,7 @@ create table animais(
   nome VARCHAR(100),
   sexo varchar(10),
   data_nascimento DATE,
-  registo DECIMAL PRIMARY key,
-  habitat varchar(5)
+  registo DECIMAL PRIMARY key
   
 );
 drop table if exists class_biologica cascade;
