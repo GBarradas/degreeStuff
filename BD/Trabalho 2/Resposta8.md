@@ -61,17 +61,6 @@ CREATE TABLE espaços(
 ``` 
 - **funcionarios**(nome_funcionario, inicio_funçoes, telefone, telemovel, função, nif)
 ``` SQL
-DROP TABLE IF EXISTS responsavel CASCADE;
-CREATE TABLE responsavel(
-  nif_responsavel DECIMAL,
-  nif DECIMAL,
-  PRIMARY KEY (nif_responsavel, nif),
-  FOREIGN KEY (nif_responsavel) REFERENCES funcionarios ON DELETE RESTRICT,
-  FOREIGN KEY (nif) REFERENCES funcionarios ON DELETE RESTRICT
-);
-```  
-- **responsavel**(nif_responsavel, nif)
-``` SQL
 DROP TABLE IF EXISTS funcionarios CASCADE;
 CREATE TABLE funcionarios(
   nome_funcionario VARCHAR(100),
@@ -80,6 +69,17 @@ CREATE TABLE funcionarios(
   telemovel CHAR(9),
   funçao VARCHAR(20),
   nif DECIMAL PRIMARY KEY 
+);
+```  
+- **responsavel**(nif_responsavel, nif)
+``` SQL
+DROP TABLE IF EXISTS responsavel CASCADE;
+CREATE TABLE responsavel(
+  nif_responsavel DECIMAL,
+  nif DECIMAL,
+  PRIMARY KEY (nif_responsavel, nif),
+  FOREIGN KEY (nif_responsavel) REFERENCES funcionarios ON DELETE RESTRICT,
+  FOREIGN KEY (nif) REFERENCES funcionarios ON DELETE RESTRICT
 );
 ```  
 - **tratadores**(nif_tratador,registo)

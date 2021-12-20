@@ -159,12 +159,12 @@ SELECT nome FROM animais
 WHERE registo=
 (SELECT registo
 FROM a
-WHERE dn=(SELECT MAX(dn)
+WHERE dn=(SELECT MIN(dn)
 FROM a))
 ```  
 |maisVelho|
 |---------|
-|Rará     |  
+|Hipo     |  
 
 >**n.**  Qual é o local húmido com mais mamíferos?  
 ``` SQL

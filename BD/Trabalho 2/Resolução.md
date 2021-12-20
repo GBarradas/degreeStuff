@@ -1,9 +1,8 @@
 # Resolução do trabalho de Base  de Dados
 >**1.**  Para o problema acima, construa um diagrama Entidade-Relação que descreva a informação.  No diagrama não se esqueça de indicar as restrições das relações e as chaves primárias das entidades.  
 
-[<p align="center">imagem</p> ](fotos/ER1.jpeg)
-[<p align="center">imagem</p>](fotos/ER2.jpeg) 
-[<p align="center">imagem</p>](fotos/ER3.jpeg)
+[<img src="fotos/er_final.png">](fotos/er_final.png)  
+
 
 >**2.**  Transforme  o  modelo  E-R  em  tabelas.   Nas  tabelas  não  se  esqueça  deindicar as chaves primárias e as chaves candidatas.  
 
