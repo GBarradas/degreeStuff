@@ -1,6 +1,0 @@
-MUDANÇAS:
-
--->Corrigidos alguns erros encontrados;
--->Adicionado informação na tabela turno para ajudar na resposta á 5.g);
--->Inserção das alineas g), h) . A i) já estava feita na apresentação anterior;
--->Inserção das chaves candidatas,primárias e estrangeiras no relatório.
