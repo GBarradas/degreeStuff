@@ -1,0 +1,6 @@
+[submodule "P2/Work"]
+	path = P2/Work
+	url = https://github.com/GBarradas/P2-Work
+[submodule "BD/Work1"]
+	path = BD/Work1
+	url = https://github.com/GBarradas/BD_Work_1
