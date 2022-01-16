@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "P2/Trabalho",
         "MIUP",
-        "P2/Trabalho"
+        "P2/programação"
     ]
 }
