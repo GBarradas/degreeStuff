@@ -1,6 +1,0 @@
-[submodule "P2/Work"]
-	path = P2/Work
-	url = https://github.com/GBarradas/P2-Work
-[submodule "P1/Work"]
-	path = P1/Work
-	url = https://github.com/GBarradas/P1-mineweeper
