@@ -4,3 +4,6 @@
 [submodule "BD/Work1"]
 	path = BD/Work1
 	url = https://github.com/GBarradas/BD_Work_1
+[submodule "P1/Work"]
+	path = P1/Work
+	url = https://github.com/GBarradas/P1-mineweeper
