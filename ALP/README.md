@@ -1,48 +1,32 @@
-<meta charset="utf8">
-<style>
-    li,p{
-        padding: 0%;
-        margin:0%;
-    }
-    th{
-    border-bottom: 2pt solid black;
-    height: 40px;
-}
-tr{
-    height: 40px;
-}
-.link:hover,
-.row:hover{
-    background-color:#c2c0c0 !important; 
-}
+# Autómatos e Liguagem de Programação  
+[ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2122/course/view.php?id=1454)  
 
-table{
-    border-collapse: collapse;
-    margin-left: 5vw;
-    width: 90vw
-}
+[Apontamentos](https://home.uevora.pt/~fc/alp/)  
+[Apontamentos_B](http://host.di.uevora.pt/~fc/alp/)
+## Docentes:
+- Francisco Coelho
+  > email: fc@uevora.pt  
+    link: http://home.uevora.pt/~fc
+    Gabinete: CLAV-249
 
-tr:nth-child(even) {
-    background-color: #e5e5e5;
-    -webkit-column-break-after: 0px;
-}
-</style>
-<script src="aux.js" ></script>
-<h1>Autómatos e Liguagem de Programação</h1>
-<table>
-    <thead>
-        <tr>
-            <th>Aula</th>
-            <th colspan="2">Informação</th>
-        </tr>
-    </thead>
-    <tbody id="inf" >
-
-    </tbody>
-
-</table>
-<script>doTable()</script>
 ---  
+
+## Aulas 
+
+|Aula                   |Data   |Informações|                        |
+|-----------------------|-------|-----------|------------------------|
+|[aula1](aulas/aula1.md)|07/02/2022|Pratica||
+|
+---  
+## Avaliações
+|Avaliação    |Data      |Hora |Duração|Sala    |
+|-------------|----------|:---:|:-----:|:------:| 
+|1º Frequência|15/03/2022|18:00|1:30     |CLAV-125|
+|2º Frequência|26/04/2022|18:00|1:30     |CLAV-125|
+|3º Frequência|17/05/2022|18:00|1:30     |CLAV-125|
+|Exame Normal |07/06/2022|-|-    |-|
+|Exame Recurso|21/06/2022|-|-    |-|
+--- 
 
 <h2>Plano Curricular:</h2>  
 <div>

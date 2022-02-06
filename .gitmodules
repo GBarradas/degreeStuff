@@ -4,3 +4,9 @@
 [submodule "BD/Work_1"]
 	path = BD/Work_1
 	url = https://github.com/GBarradas/BD_Work_1
+[submodule "CG/Work"]
+	path = CG/Work
+	url = https://github.com/GBarradas/CG-Work
+[submodule "BD/Work_2"]
+	path = BD/Work_2
+	url = https://github.com/GBarradas/BD_Work_2
