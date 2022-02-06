@@ -1,13 +1,3 @@
-<style>
-    p {
-        font-size: 20px;
-        line-height: 1.2;
-    }
-    a{
-        color: currentcolor;
-    }
-   
-</style>
 ## DegreeStuff 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBarradas&hide=Roff,Tex&langs_count=8&exclude_repo=Gbarradas.github.io,P1-mineweeper,e-comercy,Gbarradas,CG-Work)](https://github.com/anuraghazra/github-readme-stats)  
 
@@ -19,7 +9,7 @@
  &#8239;│&emsp;&emsp;├── 📘 [Work_1](BD/Work_1)  
  &#8239;│&emsp;&emsp;└── 📘 [Work_2](BD/Work_2)  
  ├── 📂 [CG](CG)  
- &#8239;│&emsp;&emsp;└── 📂 [Work](CG/Work)  
+ &#8239;│&emsp;&emsp;└── 📂 [Work](CG/Work @ ddd75a2)  
  &#8239;│&emsp;&emsp;&emsp;&emsp;&nbsp;├── 📘 [SVG](CG/Work/SVG)   
  &#8239;│&emsp;&emsp;&emsp;&emsp;&nbsp;├── 📘 [C2D](CG/Work/C2D)  
  &#8239;│&emsp;&emsp;&emsp;&emsp;&nbsp;├── 📘 [3JS](CG/Work/3JS)  
