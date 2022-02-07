@@ -30,3 +30,12 @@
  ├── 🔑 [LICENCE](/LICENSE)    
  ├── 📄 [Plano_de_Estudos.pdf ](/Plano_de_Estudos.pdf)  
  └── 📄 README.md  
+
+
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { color: currentColor; }
+p{
+    line-height:1;
+a:hover { text-decoration: underline; }
+</style>")
