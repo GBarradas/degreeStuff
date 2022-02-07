@@ -20,10 +20,11 @@
 ## Avaliações
 |Avaliação    |Data      |Hora |Duração|Sala    |
 |-------------|----------|:---:|:-----:|:------:| 
-|1º Frequência|-|-|-     |-|
-|2º Frequência|-|-|-     |-|
-|Exame Normal |-|-|-     |-|
-|Exame Recurso|-|-|-     |-|
+|1º Frequência|10/03/2022|18:00|-     |CLAV-130|
+|2º Frequência|21/04/2022|18:00|-     |CLAV-130|
+|3º Frequência|02/06/2022|-|-     |-|
+|Exame Normal |02/06/2022|-|-     |-|
+|Exame Recurso|15/06/2022|-|-     |-|
 --- 
 ## Plano Curricular
 ### Tópicos principais:  
