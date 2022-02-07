@@ -23,12 +23,12 @@
 |Exame Recurso|14/06/2022|-|-    |-|
 --- 
 ## Plano Curricular
-1. Cálculo Proposicional
+1. Cálculo Proposicional  
    1.1. Sintaxe: Conectivos, Fórmulas bem formadas  
    1.2.   Semântica: Tabelas de Verdade, Fórmulas Válidas e Verdadeiras, Formas Normais, Regras de Inferência
-2. Cálculo de Predicados
-    2.1. Limitações do Cálculo Proposicional
-    2.2. Quantiﬁcação e Demonstrações: Argumentação Informal, Quantiﬁcadores Universal e Existencial, Refutação por Contra-exemplo, Demonstração Direta, Demonstração por Contradição
-3. Recursão
-    3.1. Definições Recursivas: Termos Recursivos, Relações e Funções Recursivas
-    3.2.Demonstração por Indução: Indução nos Números Naturais, Indução Estrutural
+2. Cálculo de Predicados  
+    2.1. Limitações do Cálculo Proposicional  
+    2.2. Quantiﬁcação e Demonstrações: Argumentação Informal, Quantiﬁcadores Universal e Existencial, Refutação por Contra-exemplo, Demonstração Direta, Demonstração por Contradição  
+3. Recursão  
+    3.1. Definições Recursivas: Termos Recursivos, Relações e Funções Recursivas  
+    3.2.Demonstração por Indução: Indução nos Números Naturais, Indução Estrutural  
