@@ -1,3 +1,7 @@
+<head>
+ <link rel="stylesheet" type="text/css" href=".github/github.css" />
+</head>
+  
 ## DegreeStuff 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBarradas&hide=Roff,Tex&langs_count=8&exclude_repo=Gbarradas.github.io,P1-mineweeper,e-comercy,Gbarradas,CG-Work)](https://github.com/anuraghazra/github-readme-stats)  
 
