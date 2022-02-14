@@ -1,5 +1,5 @@
 # Aula Pratica 1  
-##### **Data:** 09/02/2021; **Hora**:16:00; **Duração**: 1:45; **Sala**:CLAV_136;**Docente**: Francisco Coelho  
+##### *Autómatos e Liguagens de Programação* **Data:** 09/02/2021; **Hora**:16:00; **Duração**: 1:45; **Sala**:CLAV_136;**Docente**: Francisco Coelho  
 ### [Pagina Principal](../README.md)
 ## Resolução de Exercicios
 ## [Exercício 03](https://home.uevora.pt/~fc/alp/01-palavras_linguagens_expressoes_regulares/01.90-exercicios.html#exerc%C3%ADcio-03)  
