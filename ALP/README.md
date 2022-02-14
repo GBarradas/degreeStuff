@@ -9,15 +9,14 @@
     link: http://home.uevora.pt/~fc
     Gabinete: CLAV-249
 
----  
+
 
 ## Aulas 
 
 |Aula                   |Data   |Informações|                        |
 |-----------------------|-------|-----------|------------------------|
 |[aula1](aulas/aula1.md)|07/02/2022|Pratica|Resolução de exercicios|
-|
----  
+
 ## Avaliações
 |Avaliação    |Data      |Hora |Duração|Sala    |
 |-------------|----------|:---:|:-----:|:------:| 
@@ -26,7 +25,7 @@
 |3º Frequência|17/05/2022|18:00|1:30     |CLAV-125|
 |Exame Normal |07/06/2022|-|-    |-|
 |Exame Recurso|21/06/2022|-|-    |-|
---- 
+
 
 <h2>Plano Curricular:</h2>  
 <div>
