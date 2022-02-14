@@ -10,3 +10,6 @@
 [submodule "BD/Work_2"]
 	path = BD/Work_2
 	url = https://github.com/GBarradas/BD_Work_2
+[submodule "P2/Work"]
+	path = P2/Work
+	url = https://github.com/GBarradas/P2-Work
