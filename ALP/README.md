@@ -6,7 +6,7 @@
 ## Docentes:
 - Francisco Coelho
   > email: fc@uevora.pt  
-    link: http://home.uevora.pt/~fc
+    link: http://home.uevora.pt/~fc  
     Gabinete: CLAV-249
 
 
