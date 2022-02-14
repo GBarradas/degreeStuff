@@ -22,7 +22,7 @@
  &#8202;├── 📂 [P1](P1)  
   &#8239;│&emsp;&emsp;└── 📘 [Work](https://github.com/GBarradas/P1-mineweeper)   
  &#8202;├── 📂 [P2](/P2)  
- &#8239;│&emsp;&emsp;└── 📘 [Work](#)  
+ &#8239;│&emsp;&emsp;└── 📘 [Work](https://github.com/GBarradas/P2-Work)  
  &#8202;├── 📂 [Redes](/Redes)  
  &#8202;├── 📂 [Sistemas digitais](/Sistemas%20digitais)  
  &#8202;├── 📂 [SO](/SO)   
