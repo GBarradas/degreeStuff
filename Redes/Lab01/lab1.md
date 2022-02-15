@@ -35,7 +35,7 @@
     ``` bash 
         traceroute to www.uevora.pt (193.136.216.21), 30 hops max, 60 byte packets
         1  _gateway (10.2.0.254)  4.210 ms  4.137 ms  4.277 ms
-         2  router01-ac.bkb.uevora.pt (193.137.219.28)  6.301 ms  6.518 ms  6.723 ms
+        2  router01-ac.bkb.uevora.pt (193.137.219.28)  6.301 ms  6.518 ms  6.723 ms
         3  arachne.uevora.pt (193.136.216.21)  4.849 ms  4.830 ms  4.938 ms
     ```
 
@@ -52,27 +52,27 @@
      7  * * *
      8  * * *
      9  * * *
-    10  * * *
-    11  * * *
-    12  * * *
-    13  * * *
-    14  * * *
-    15  * * *
-    16  * * *
-    17  * * *
-    18  * * *
-    19  * * *
-    20  * * *
-    21  * * *
-    22  * * *
-    23  * * *
-    24  * * *
-    25  * * *
-    26  * * *
-    27  * * *
-    28  * * *
-    29  * * *
-    30  * * *
+     10  * * *
+     11  * * *
+     12  * * *
+     13  * * *
+     14  * * *
+     15  * * *
+     16  * * *
+     17  * * *
+     18  * * *
+     19  * * *
+     20  * * *
+     21  * * *
+     22  * * *
+     23  * * *
+     24  * * *
+     25  * * *
+     26  * * *
+     27  * * *
+     28  * * *
+     29  * * *
+     30  * * *
     ```
 
     c. www.baidu.com?  
@@ -88,27 +88,27 @@
         7  * * *
         8  * * *
         9  * * *
-        0  * * *
-        1  * * *
-        2  * * *
-        3  * * *
-        4  * * *
-        5  * * *
-        6  * * *
-        7  * * *
-        8  * * *
-        9  * * *
-        0  * * *
-        1  * * *
-        2  * * *
-        3  * * *
-        4  * * *
-        5  * * *
-        6  * * *
-        7  * * *
-        8  * * *
-        9  * * *
-        0  * * *
+        10  * * *
+        11  * * *
+        12  * * *
+        13  * * *
+        14  * * *
+        15  * * *
+        16  * * *
+        17  * * *
+        18  * * *
+        19  * * *
+        20  * * *
+        21  * * *
+        22  * * *
+        23  * * *
+        24  * * *
+        25  * * *
+        26  * * *
+        27  * * *
+        28  * * *
+        29  * * *
+        30  * * *
     ```  
 
 6. Implemente um programa (em C) que replique o funcionamento de
@@ -123,8 +123,8 @@ Dicas -> responda às seguintes questões:
 - O que é um *socket*?
 
 - O que é um *cliente*?
-- Endereços 127.x.x.x corresponde á propria maquina
-- Endereços 192.x.x.x corresponde á propria rede so existem dentro da rede
+- Endereços **127.x.x.x** corresponde á propria maquina
+- Endereços **192.x.x.x** corresponde á propria rede so existem dentro da rede
 
 Links úteis:
 
