@@ -1,8 +1,7 @@
 {
     "java.project.sourcePaths": [
         "P2/programação",
-        "P2/Trabalho",
-        "MIUP",
-        "P2/Work"
+        "P2/Work",
+        "EDA2/AulasPraticas/MaximumNunber"
     ]
 }

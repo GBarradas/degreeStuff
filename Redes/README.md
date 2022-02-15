@@ -15,6 +15,8 @@
 
 |Aula                   |Data   |Informações|                        |
 |-----------------------|-------|-----------|------------------------|
+|[Lab01](Lab01/lab1.md)|15/02/2022|Laboratorial|Resoluçãonde exercicios|
+
 
 ---
 ## Avaliações
