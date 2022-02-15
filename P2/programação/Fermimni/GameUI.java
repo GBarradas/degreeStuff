@@ -1,5 +1,4 @@
-package Fermini;
-import java.util.Random;
+package Fermimni;
 import java.util.Scanner;
 public class GameUI {
 
@@ -12,7 +11,7 @@ public class GameUI {
         System.out.print(message);
         Scanner s=new Scanner(System.in);
         String response=s.nextLine();
-        //s.close();
+        s.close();
         return response;
     }
 

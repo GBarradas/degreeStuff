@@ -1,4 +1,4 @@
-package Fermini;
+package Fermimni;
 public class Progress {
     int guessCount=0;
     Secret secret;
