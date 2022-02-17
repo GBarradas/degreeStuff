@@ -5,28 +5,27 @@
 ## [Exercício 03](https://home.uevora.pt/~fc/alp/01-palavras_linguagens_expressoes_regulares/01.90-exercicios.html#exerc%C3%ADcio-03)  
 Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
 
-1. <img src="https://render.githubusercontent.com/render/math?math=\color{white}C_1"> = {palavras sobre Σ tais que o símbolo a ocorre aos pares}. <img src="https://render.githubusercontent.com/render/math?math=\color{white}C_1"> inclui, por exemplo, bbaabbbaab e aaaaaaaa mas não inclui aaaaaa nem aabaaabaaabaaaba.  
-    > **Base**: <img src="https://render.githubusercontent.com/render/math?math=\color{white}aa">  
+1. <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\C_1"> = {palavras sobre Σ tais que o símbolo a ocorre aos pares}. <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\C_1"> inclui, por exemplo, bbaabbbaab e aaaaaaaa mas não inclui aaaaaa nem aabaaabaaabaaaba.  
+    > **Base**: <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\aa"><br>
     **Passo**:  
-    <img src="https://render.githubusercontent.com/render/math?math=\color{white}aap\in C_1">  
-    <img src="https://render.githubusercontent.com/render/math?math=\color{white}paa\in C_1">  
-    <img src="https://render.githubusercontent.com/render/math?math=\color{white}bp\in C_1">  
-    <img src="https://render.githubusercontent.com/render/math?math=\color{white}pb\in C_1">  
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\aap\in C_1"><br>
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\paa\in C_1"><br>
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\bp\in C_1"><br>
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\pb\in C_1"><br>
 
  
-2. <img src="https://render.githubusercontent.com/render/math?math=\color{white}C_2 = p \in \Sigma^* : |p|"> é par , p começa por a e, em p , os a e os b ocorrem alternados }
+2. <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\C_2 = p \in \Sigma^* : |p|"> é par , p começa por a e, em p , os a e os b ocorrem alternados }
     > 
-3.  <img src="https://render.githubusercontent.com/render/math?math=\color{white}C_3 =\{p \in \Sigma^* "> é caicua  <img src="https://render.githubusercontent.com/render/math?math=\color{white} \}">
-   
-    > **Base**: <img src="https://render.githubusercontent.com/render/math?math=\color{white}a, b">  
+3.  <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\C_3 =\{p \in \Sigma^* "> é caicua  <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\ \}"><br>  
+    > **Base**: <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\a, b"><br>
      **Hipoteses**:  
-    <img src="https://render.githubusercontent.com/render/math?math=\color{green}a, b">  
-    <img src="https://render.githubusercontent.com/render/math?math=\color{green}aa, bb,"> <img src="https://render.githubusercontent.com/render/math?math=\color{red}ab, ba">  
-    <img src="https://render.githubusercontent.com/render/math?math=\color{green}aaa, bbb,aba,bab,"> <img src="https://render.githubusercontent.com/render/math?math=\color{red}abb, baa,bba,aab">  
+    <img src="https://render.githubusercontent.com/render/math?math=\color{green}\large\a, b"><br>
+    <img src="https://render.githubusercontent.com/render/math?math=\color{green}\large\aa, bb,"> <img src="https://render.githubusercontent.com/render/math?math=\color{red}\large\ab, ba"><br>
+    <img src="https://render.githubusercontent.com/render/math?math=\color{green}\large\aaa, bbb,aba,bab,"> <img src="https://render.githubusercontent.com/render/math?math=\color{red}\large\abb, baa,bba,aab"><br>
      **Passo**:  
-    $apa\in C_3$  
-    $bpb\in C_3$
-4. $C_4$={$a^n b^n\in \Sigma^*$ :$n>0$}  
+     <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\apa\in C_3"><br>
+     <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\bpb\in C_3"><br>  
+4. <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\\large\c_4=\{a^nb^n\in \Sigma^* : n>0\}"><br> 
     >    **Base**:$ab$  
     **Passo**: se $p\in C_4$ então  
     $apb$
