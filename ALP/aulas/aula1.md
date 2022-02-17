@@ -55,26 +55,41 @@ Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
 
     |Valor|Esta|calculo|
     |-----|----|-------|
-    |0    |- [x] |$0$|
-    |1    |- [x] |$0$|
-    |2    |- [x] |$0^2$|
-    |3    |- [x] |$0^2+0=0^3$|
-    |4    |- [x] |$0^2+0^2=0^4$|
-    |5    |- [x] |$0^5$|
-    |6    |- [x] |${0^2}+0^3=0^6$|
-    |7    |- [x] |$0^5+0^2=0^7$|
-    |8    |- [x] |$0^5+0^3=0^8$|
-    |9    |- [x] |$0^5+0^2+0^2=0^{5+2+2}=0^9$|
-    |10   |- [x] |${0^5}^2=0^{2*5}=0^{10}$|
-    |11   |- [x] |$0^5+0^2+0^2+0^2=0^{11}$
-    |12   |- [x] |$0^5+0^5+0^2=0^12$|
-    |13   |- [ ] |$$|
-    |14   |- [ ] |$$|
-    |15   |- [ ] |${0^5}^3=0^{5*3}=0^{15}$|  
-- [x]
+    |0    |✓ |![][0]|
+    |1    |✓ |![][1]|
+    |2    |✓ |![][2]|
+    |3    |✓ |![][3]|
+    |4    |✓ |![][4]|
+    |5    |✓ |![][5]|
+    |6    |✓ |![][6]|
+    |7    |✓ |![][7]|
+    |8    |✓ |![][8]|
+    |9    |✓ |![][9]|
+    |10   |✓ |![][10]|
+    |11   |✓ |![][11]|
+    |12   |✓ |![][12]|
+    |13   |  |![][13]|
+    |14   |  |![][14]|
+    |15   |✓ |![][15]|  
+
      
-    > Logo o menor possivel $\{\lambda,0,0^2,0^5\}^3$ com $\Sigma =\{0\}$
-    é $0^{13}$  
+    > Logo o menor possivel <img src="https://render.githubusercontent.com/render/math?math=\color{white}\{\lambda,0,0^2,0^5\}^3"> com <img src="https://render.githubusercontent.com/render/math?math=\color{white}\Sigma =\{0\}">
+    é <img src="https://render.githubusercontent.com/render/math?math=\color{white}0^{13}">
 ---  
 
- 
+[0]:  https://render.githubusercontent.com/render/math?math=\color{white}0
+[1]:  https://render.githubusercontent.com/render/math?math=\color{white}0
+[2]:  https://render.githubusercontent.com/render/math?math=\color{white}0^2
+[3]:  https://render.githubusercontent.com/render/math?math=\color{white}0^2+0=0^3
+[4]:  https://render.githubusercontent.com/render/math?math=\color{white}0^2+0^2=0^4
+[5]:  https://render.githubusercontent.com/render/math?math=\color{white}0^5
+[6]:  https://render.githubusercontent.com/render/math?math=\color{white}{0^2}+0^3=0^6
+[7]:  https://render.githubusercontent.com/render/math?math=\color{white}0^5+0^2=0^7
+[8]:  https://render.githubusercontent.com/render/math?math=\color{white}0^5+0^3=0^8
+[9]:  https://render.githubusercontent.com/render/math?math=\color{white}0^5+0^2+0^2=0^{5+2+2}=0^9
+[10]: https://render.githubusercontent.com/render/math?math=\color{white}{0^5}^2=0^{2*5}=0^{10}
+[11]: https://render.githubusercontent.com/render/math?math=\color{white}0^5+0^2+0^2+0^2=0^{11}
+[12]: https://render.githubusercontent.com/render/math?math=\color{white}0^5+0^5+0^2=0^{12}
+[13]: https://render.githubusercontent.com/render/math?math=\color{white}0
+[14]: https://render.githubusercontent.com/render/math?math=\color{white}0
+[15]: https://render.githubusercontent.com/render/math?math=\color{white}{0^5}^3=0^{5*3}=0^{15}
