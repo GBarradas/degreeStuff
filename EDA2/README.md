@@ -1,5 +1,6 @@
 # Estrutura de Dados e Algoritmos II  
-[ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2122/course/view.php?id=1577)
+[ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">]()  
+[![moshak-image](https://github.com/GBarradas/MIUP/blob/main/mooshak.png?raw=true) MooShak](https://takatakata.di.uevora.pt/~mooshak/cgi-bin/execute/3842592646294549?command=login&contest=eda2_2021_prat)
 ## Docentes:
 - Vasco Pedro
   > email: vp@uevora.pt  
@@ -13,15 +14,20 @@
 
 |Aula                   |Data   |Informações|                        |
 |-----------------------|-------|-----------|------------------------|
+|[Aula P_1](/EDA2/AulasPraticas/MaximumNunber/eda2-p1-max-number.pdf)|16/02/2022|Resolução de um exercicio e explicação do funcionamento da plataforma Mooshak|
 
 ---
 ## Avaliações
-|Avaliação    |Data      |Hora |Duração|Sala    |
-|-------------|----------|:---:|:-----:|:------:| 
-|1º Frequência|-|-|-     |-|
-|2º Frequência|-|-|-     |-|
-|Exame Normal |-|-|-     |-|
-|Exame Recurso|-|-|-     |-|
+|Avaliação         |Data      |Hora |Duração|Sala    |
+|------------------|----------|:---:|:-----:|:------:| 
+|1º Frequência     |07/04/2022|20:30|-     |-|
+|2º Frequência     |09/06/2022|09:30|-     |-|
+|Exame Normal      |09/06/2022|09:30|-     |-|
+|Exame Recurso     |23/06/2022|14:30|-     |-|
+|Entrega Trabalho 1|-|-|-|-| 
+|Entrega Trabalho 2|-|-|-|-| 
+|Entrega Trabalho 3|-|-|-|-| 
+|Discussão Trabalho|09/06/2022|14:30|-|-| 
 --- 
 ## Plano Curricular
 Análise das complexidades temporal e espacial: Complexidade amortizada  
