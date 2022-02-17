@@ -5,21 +5,24 @@
 ## [Exercício 03](https://home.uevora.pt/~fc/alp/01-palavras_linguagens_expressoes_regulares/01.90-exercicios.html#exerc%C3%ADcio-03)  
 Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
 
-1. $C_1$ = {palavras sobre Σ tais que o símbolo a ocorre aos pares}. $C_1$ inclui, por exemplo, bbaabbbaab e aaaaaaaa mas não inclui aaaaaa nem aabaaabaaabaaaba.  
-    > **Base**: $aa$  
-    **Passo**:
-    $aap\in C_1$  
-    $paa\in C_1$  
-    $bp\in C_1$  
-    $pb\in C_1$   
-2. $C_2$ ={$p ∈ Σ^∗$ : $|p|$ é par , $p$ começa por $a$ e, em 4p$ , os $a$ e os $b$ ocorrem alternados }
+1. <img src="https://render.githubusercontent.com/render/math?math=\color{white}C_1"> = {palavras sobre Σ tais que o símbolo a ocorre aos pares}. <img src="https://render.githubusercontent.com/render/math?math=\color{white}C_1"> inclui, por exemplo, bbaabbbaab e aaaaaaaa mas não inclui aaaaaa nem aabaaabaaabaaaba.  
+    > **Base**: <img src="https://render.githubusercontent.com/render/math?math=\color{white}aa">  
+    **Passo**:  
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}aap\in C_1">  
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}paa\in C_1">  
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}bp\in C_1">  
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}pb\in C_1">  
+
+ 
+2. <img src="https://render.githubusercontent.com/render/math?math=\color{white}C_2 = p \in \Sigma^* : |p|"> é par , p começa por a e, em p , os a e os b ocorrem alternados }
     > 
-3. $C_3$ ={$p\in \Sigma^*$ : $p$ é capicua}  
-    > **Base**: $ab$  
+3.  <img src="https://render.githubusercontent.com/render/math?math=\color{white}C_3 =\{p \in \Sigma^* "> é caicua  <img src="https://render.githubusercontent.com/render/math?math=\color{white} \}">
+   
+    > **Base**: <img src="https://render.githubusercontent.com/render/math?math=\color{white}a, b">  
      **Hipoteses**:  
-     $a, b$  
-     $aa$,<s>$ab$</s>, $bb$,  
-     $aaa$, $aab$, $aba$, $abb$, $baa$, $bab$, $bbb$, $bba$  
+    <img src="https://render.githubusercontent.com/render/math?math=\color{green}a, b">  
+    <img src="https://render.githubusercontent.com/render/math?math=\color{green}aa, bb,"> <img src="https://render.githubusercontent.com/render/math?math=\color{red}ab, ba">  
+    <img src="https://render.githubusercontent.com/render/math?math=\color{green}aaa, bbb,aba,bab,"> <img src="https://render.githubusercontent.com/render/math?math=\color{red}abb, baa,bba,aab">  
      **Passo**:  
     $apa\in C_3$  
     $bpb\in C_3$
