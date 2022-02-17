@@ -25,11 +25,12 @@ Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
      **Passo**:  
      <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\apa\in C_3"><br>
      <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\bpb\in C_3"><br>  
-4. <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\\large\c_4=\{a^nb^n\in \Sigma^* : n>0\}"><br> 
-    >    **Base**:$ab$  
-    **Passo**: se $p\in C_4$ então  
-    $apb$
-5. $C_5$={$a^ib^j\in\Sigma^* :0\le i\le j$}
+4. <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\c_4=\{a^nb^n\in \Sigma^* : n>0\}"><br> 
+    >    **Base**: <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\ab"><br>
+    **Passo**:  
+    se <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\p\in C_4"> então<br>
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\apb\in C_4"><br>
+5. <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\C_5 =\{a^ib^j\in \Sigma^* : 0\le i\le j \}"><br>$C_5$=
     >    **Base**: $a,b$  
     >    **Hipoteses**:   
     > $bb$  
