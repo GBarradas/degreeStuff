@@ -31,23 +31,25 @@ Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
     se <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\p\in C_4"> então<br>
     <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\apb\in C_4"><br>
 5. <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\C_5 =\{a^ib^j\in \Sigma^* : 0\le i\le j \}"><br>$C_5$=
-    >    **Base**: $a,b$  
+    >    **Base**: <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\a, b"><br>
     >    **Hipoteses**:   
-    > $bb$  
-    > $abb$   
-    > $abbb$  
-    >   **Passo**: se $p\in C_5$ então:  
-    > $pb\in C_5$  
-    > $apb\in C_5$ 
-6. $c_6$={$p\in\Sigma^*:|p|_a=|P|_b$}   
-    > **Base**: a,b
-    **Passo**:
-    $apb\in C_6$
-    $bpa\in C_6$  
+    > <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\bb"><br>
+    > <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\abb"><br>
+    > <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\abbb"><br>
+    >   **Passo**:  
+     se <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\p\in C_5"> então:<br>
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\pb\in C_5"><br>
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\apb\in C_5"><br>
+6. <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\c_6=\{p\in\Sigma^*:|p|_a=|P|_b\}"><br>  
+    > **Base**: <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\a, b"><br>
+    **Passo**:  
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\apb\in C_6"><br>
+    <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\bpa\in C_6"><br>
+  
 ---
 ## [Exercicio 04](https://home.uevora.pt/~fc/alp/01-palavras_linguagens_expressoes_regulares/01.90-exercicios.html#exerc%C3%ADcio-04)  
 
-- Encontre a menor palavra sobre o alfabeto $\Sigma =\{0\}$ que não está em $\{\lambda,0,0^2,0^5\}^3$.   
+- Encontre a menor palavra sobre o alfabeto <img src="https://render.githubusercontent.com/render/math?math=\color{white}\Sigma =\{0\}"> que não está em <img src="https://render.githubusercontent.com/render/math?math=\color{white}\{\lambda,0,0^2,0^5\}^3">.  
     `Não percebi be como se resolveo exercicio`
 
 
@@ -69,18 +71,10 @@ Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
     |13   |- [ ] |$$|
     |14   |- [ ] |$$|
     |15   |- [ ] |${0^5}^3=0^{5*3}=0^{15}$|  
-    
+- [x]
      
     > Logo o menor possivel $\{\lambda,0,0^2,0^5\}^3$ com $\Sigma =\{0\}$
     é $0^{13}$  
 ---  
-<div style=" width:100%;
-    text-align:center;">
-<p style="float:left;">pdci</p>
-<p style="display: inline-block;
-    margin:0 auto;
-    width:100px;">pdci</p>
-<p style="float:right;
-    width:100px;">pdci</p>
-</div>
+
  
