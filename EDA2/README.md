@@ -15,7 +15,7 @@
 
 |Aula                   |Data   |Informações|                        |
 |-----------------------|-------|-----------|------------------------|
-|[Aula P_1](/EDA2/AulasPraticas/MaximumNunber/eda2-p1-max-number.pdf)|16/02/2022|Resolução de um exercicio e explicação do funcionamento da plataforma Mooshak|
+|[Aula P_1](/EDA2/AulasPraticas/MaximumNunber/eda2-p1-max-number.pdf)|16/02/2022|Pratica|Resolução de um exercicio e explicação do funcionamento da plataforma Mooshak|
 
 ---
 ## Avaliações
