@@ -1,8 +1,4 @@
-<style>
-  ol { counter-reset: item }
-li{ display: block }
-li:before { content: counters(item, ".") " "; counter-increment: item }
-</style>
+
 # Intrudoção à Invvestigação
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2122/)
 ## Docentes:
