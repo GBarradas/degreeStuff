@@ -17,10 +17,13 @@
 ## Avaliações
 |Avaliação    |Data      |Hora |Duração|Sala    |
 |-------------|----------|:---:|:-----:|:------:| 
-|1º Frequência|-|-|-    |-|
-|2º Frequência|-|-|-    |-|
-|Exame Normal |-|-|-    |-|
-|Exame Recurso|-|-|-    |-|
+|1º Frequência|08/03/2022|-|-    |-|
+|2º Frequência|12/05/2022|-|-    |-|
+|3º Frequência|18/05/2022|-|-    |-|
+|Exame Normal |30/05/2022|-|-    |-|
+|Exame Recurso|14/06/2022|-|-    |-|
+|Entrega 1º Trabalho|-|
+|Entrega 2º Trabalho|-|
 --- 
 ## Plano Curricular
 ### Tópicos principais:  
