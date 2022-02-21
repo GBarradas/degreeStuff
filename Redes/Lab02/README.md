@@ -11,7 +11,7 @@
 
     &emsp;&emsp;ii. Enviar a data e hora (numa string) ao cliente;
 
-    &emsp;&emsp;iii. Fechar a ligação (close()).
+    &emsp;&emsp;iii. Fechar a ligação (`close()`).
 
 1. Teste o seu servidor com "telnet localhost 1300" ou "nc localhost 1300".
 
