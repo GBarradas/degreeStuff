@@ -9,9 +9,9 @@
 ---  
 ## Aulas 
 
-|Aula                   |Data   |Informações|                        |
+|Aula                   |Data   |Tipo|     Informações                   |
 |-----------------------|-------|-----------|------------------------|
-|[Aula 2](aulas/aula2)|14/02/2022|Teorico-Pratica||
+|[Aula 2](aulas/aula2)|14/02/2022|Teorico-Pratica|-|
 
 ---
 ## Avaliações  
