@@ -1,6 +1,6 @@
 # Aula Pratica 3 
-##### *Autómatos e Liguagens de Programação* | **Data:** 23/02/2021; **Hora**:16:00; **Duração**: 2h; **Sala**:CLAV_136;**Docente**: [Francisco Coelho](https://github.com/GBarradas/degreeStuff/blob/main/ALP/README.md#docentes)  
-### [Pagina Principal](../README.md)  
+##### *Autómatos e Liguagens de Programação* | **Data:** 23/02/2021; **Hora**:16:00; **Duração**: 2h; **Sala**:CLAV_136;**Docente**: [Francisco Coelho](../../#docentes)  
+### [Pagina Principal](../../) 
 ---
 ## Resolução de Exercicios
 ## [Exercício 3](https://home.uevora.pt/~fc/alp/02-automatos_finitos/02.90-exercicios.html#exerc%C3%ADcio-03) 

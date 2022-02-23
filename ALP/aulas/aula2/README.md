@@ -1,6 +1,6 @@
 # Aula Pratica 2  
-##### *Autómatos e Liguagens de Programação* | **Data:** 16/02/2021; **Hora**:16:00; **Duração**: 2h; **Sala**:CLAV_136;**Docente**: [Francisco Coelho](https://github.com/GBarradas/degreeStuff/blob/main/ALP/README.md#docentes)  
-### [Pagina Principal](../README.md)  
+##### *Autómatos e Liguagens de Programação* | **Data:** 16/02/2021; **Hora**:16:00; **Duração**: 2h; **Sala**:CLAV_136;**Docente**: [Francisco Coelho](../../#docentes)  
+### [Pagina Principal](../../)
 ---
 ## Resolução de Exercicios
 ## [Exercício 16](https://home.uevora.pt/~fc/alp/01-palavras_linguagens_expressoes_regulares/01.90-exercicios.html#exerc%C3%ADcio-16)  
