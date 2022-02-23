@@ -12,7 +12,8 @@
 
 |Aula                   |Data   |Informações|                        |
 |-----------------------|-------|-----------|------------------------|
-|-|-|-|-|
+|[Aula1](Praticas/aula1)|14/02/2022|Pratica|intalar linux e fork|
+|[Aula2](Praticas/aula2)|21/02/2022|Pratica|intalar linux e fork|
 
 ---
 ## Avaliações  
