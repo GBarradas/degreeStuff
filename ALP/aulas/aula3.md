@@ -23,3 +23,7 @@ Seja A=({0,1,2},{x,y},{(0,x,1),(0,y,0),(1,x,1),(1,y,2),(2,x,1),(2,y,0)},0,{0}) u
 
 Construa um autómato finito determinista que reconheça a linguagem da ER <img src="https://render.githubusercontent.com/render/math?math=\large\(ab)^*(ba)^*">
 
+---
+## [Exercício 8](https://home.uevora.pt/~fc/alp/02-automatos_finitos/02.90-exercicios.html#exerc%C3%ADcio-08)   
+Encontre um AFD que aceite a linguagem das palavras...  
+3. com subpalavra 010 ou 101.
