@@ -18,7 +18,8 @@
 |[Aula P_1](/EDA2/AulasPraticas/MaximumNunber/eda2-p1-max-number.pdf)|16/02/2022|Pratica|Resolução de um exercicio e explicação do funcionamento da plataforma Mooshak|
 
 ---
-## Avaliações
+## Avaliações  
+
 |Avaliação         |Data      |Hora |Duração|Sala    |
 |------------------|----------|:---:|:-----:|:------:| 
 |1º Frequência     |07/04/2022|20:30|-     |-|
@@ -28,7 +29,8 @@
 |Entrega Trabalho 1|-|-|-|-| 
 |Entrega Trabalho 2|-|-|-|-| 
 |Entrega Trabalho 3|-|-|-|-| 
-|Discussão Trabalho|09/06/2022|14:30|-|-| 
+|Discussão Trabalho|09/06/2022|14:30|-|-|  
+
 --- 
 ## Plano Curricular
 Análise das complexidades temporal e espacial: Complexidade amortizada  

@@ -13,14 +13,16 @@
 |-----------------------|-------|-----------|------------------------|
 
 ---
-## Avaliações
+## Avaliações  
+
 |Avaliação    |Data      |Hora |Duração|Sala    |
 |-------------|----------|:---:|:-----:|:------:| 
 |1º Frequência|21/02/2022|11:30|1h     |CLAV-125|
 |2º Frequência|28/02/2022|11:30|1h     |CLAV-125|
 |3º Frequência|16/03/2022|11:30|1h     |CLAV-125|
 |Exame Normal |31/03/2022|-|-    |-|
-|Exame Recurso|14/06/2022|-|-    |-|
+|Exame Recurso|14/06/2022|-|-    |-|  
+
 --- 
 ## Plano Curricular
 1. Cálculo Proposicional  

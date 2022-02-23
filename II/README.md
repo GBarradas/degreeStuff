@@ -11,17 +11,20 @@
 ---  
 ## Aulas 
 
-|Aula                   |Data   |Informações|                        |
+|Trabalhos                   |Data   |Informações|                        |
 |-----------------------|-------|-----------|------------------------|
+|[Neural Software Analysis](48092_48402_48921.pdf)|21/02/2022|Resumo de um artigo|
 
 ---
-## Avaliações
+## Avaliações  
+
 |Avaliação    |Data      |Hora |Duração|Sala    |
 |-------------|----------|:---:|:-----:|:------:| 
 |1º Frequência|-|-|-    |-|
 |2º Frequência|-|-|-    |-|
 |Exame Normal |-|-|-    |-|
-|Exame Recurso|-|-|-    |-|
+|Exame Recurso|-|-|-    |-|  
+
 --- 
 ## Plano Curricular
 <ol>
