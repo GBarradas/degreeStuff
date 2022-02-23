@@ -8,7 +8,8 @@
 > Exercicio 2.4 -Extra  
 
 ---
-# Codico:
+# Codico:  
+
 [2_1.c](2_1.c)  
 [2_2_a.c](2_2_a.c)  
 [2_2_b.c](2_2_b.c)  
