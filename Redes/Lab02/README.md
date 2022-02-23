@@ -2,7 +2,8 @@
 ##### *Redes de Computadores* | **Data:** 22/02/2021; **Hora**:14:00; **Duração**: 2h; **Sala**:CLAV_139; **Docente**: [Pedro Salgueiro](https://github.com/GBarradas/degreeStuff/tree/main/Redes#docentes)  
 ### [Pagina Principal](../README.md)
  ---    
- ## [Resolução de Exercicios](https://www.moodle.uevora.pt/2122/mod/page/view.php?id=48802)
+## [Resolução de Exercicios](https://www.moodle.uevora.pt/2122/mod/page/view.php?id=48802)  
+
  1. Implemente um servidor TCP que imite o comportamento do "time.nist.gov" no porto 13, como vimos na aula passada. (nota: como 13 é um porto privilegiado, pode usar o porto 1300)
 
     O servidor deve:

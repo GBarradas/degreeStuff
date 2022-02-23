@@ -3,7 +3,8 @@
 ### [Pagina Principal](../README.md)
  ---  
 ## [Resolução de Exercicios](https://www.moodle.uevora.pt/2122/mod/page/view.php?id=46205)
-> #### [*\*Material_de_Apoio_1*](Redes%20Prática%2001.pdf)
+> #### [*\*Material_de_Apoio_1*](Redes%20Prática%2001.pdf)  
+
 1. Qual é a latência da rede entre o seu computador e "www.uevora.pt"?  
    ``` bash 
     --- arachne.uevora.pt ping statistics ---
