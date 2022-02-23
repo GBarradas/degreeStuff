@@ -5,7 +5,8 @@
   > email: vp@uevora.pt  
     email: vp@di.uevora.pt  
     link: http://home.uevora.pt/~vp  
-    Gabinete: CLAV-256
+    Gabinete: CLAV-256  
+    
 ---
 ## Aulas:  
 
