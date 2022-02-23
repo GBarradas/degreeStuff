@@ -2,9 +2,9 @@
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2122/course/view.php?id=449)
 ## Docentes:
 - Vasco Pedro
-  > email: vp@uevora.pt  
-    email: vp@di.uevora.pt  
-    link: http://home.uevora.pt/~vp  
+  > email: [vp@uevora.pt](vp@uevora.pt)  
+    email: [vp@di.uevora.pt](vp@di.uevora.pt)  
+    link: [http://home.uevora.pt/~vp](http://home.uevora.pt/~vp)  
     Gabinete: CLAV-256  
     
 ---

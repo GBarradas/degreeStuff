@@ -5,8 +5,8 @@
 [Apontamentos_B](http://host.di.uevora.pt/~fc/alp/)
 ## Docentes:
 - Francisco Coelho
-  > email: fc@uevora.pt  
-    link: http://home.uevora.pt/~fc  
+  > email: [fc@uevora.pt](fc@uevora.pt)  
+    link: [http://home.uevora.pt/~fc](http://home.uevora.pt/~fc)  
     Gabinete: CLAV-249
 
 

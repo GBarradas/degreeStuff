@@ -2,11 +2,13 @@
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2021/course/view.php?id=1707)
 ## Docentes:
 - Lígia Maria Rodrigues da Silva Rodrigues
-  > email: lsf@uevora.pt  
-    link: http://home.uevora.pt/~lsf/
+  > email: [lsf@uevora.pt](lsf@uevora.pt)  
+    link: [http://home.uevora.pt/~lsf/](http://home.uevora.pt/~lsf/)  
+    Gabinete: CLAV-240
 - Teresa Gonçalves
-    > email: tcg@uevora.pt  
-    link: www.di.uevora.pt/~tcg
+    > email: [tcg@uevora.pt](tcg@uevora.pt)  
+    link: [www.di.uevora.pt/~tcg](www.di.uevora.pt/~tcg)  
+    Gabinete: CLAV-246
 
 ---  
 ## Plano Curricular  

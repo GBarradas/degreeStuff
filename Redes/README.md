@@ -2,12 +2,12 @@
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2122/course/view.php?id=1566)
 ## Docentes:
 - Pedro Patinho
-  > email: pp@uevora.pt   
-    link: http://home.uevora.pt/~pp  
+  > email: [pp@uevora.pt](pp@uevora.pt)   
+    link: [http://home.uevora.pt/~pp](http://home.uevora.pt/~pp)  
     Gabinete: CLAV-256
 - Pedro Salgueiro
-  > email: pds@uevora.pt   
-    link: http://home.uevora.pt/~pds   
+  > email: [pds@uevora.pt](pds@uevora.pt)   
+    link: [http://home.uevora.pt/~pds](http://home.uevora.pt/~pds)   
     Gabinete: CLAV-256
 
 ---  
