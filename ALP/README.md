@@ -19,14 +19,16 @@
 |[aula2](aulas/aula2.md)|16/02/2022|Pratica|Resolução de exercicios|
 |[aula3](aulas/aula3.md)|16/02/2022|Pratica|Resolução de exercicios|
 
-## Avaliações
+## Avaliações  
+
 |Avaliação    |Data      |Hora |Duração|Sala    |
 |-------------|----------|:---:|:-----:|:------:| 
 |1º Frequência|15/03/2022|18:00|1:30     |CLAV-125|
 |2º Frequência|26/04/2022|18:00|1:30     |CLAV-125|
 |3º Frequência|17/05/2022|18:00|1:30     |CLAV-125|
-|Exame Normal |07/06/2022|\-|\-    |\-|
-|Exame Recurso|21/06/2022|\-|\-    |\-|
+|Exame Normal |07/06/2022|-|-    |-|
+|Exame Recurso|21/06/2022|-|-    |-|  
+
 
 ---
 <h2>Plano Curricular:</h2>  

@@ -7,10 +7,12 @@
     link: http://home.uevora.pt/~vp  
     Gabinete: CLAV-256
 ---
-## Aulas:
+## Aulas:  
+
 |Aulas|Data|Informação| |
 |-----|----|-|----------|
-|[Aula 9](aula1712.md)|17/12/2021|Pratica|Multiprocessamento
+|[Aula 9](aula1712.md)|17/12/2021|Pratica|  Multiprocessamento|  
+
 
 ---
 ### Plano Curricular: 
