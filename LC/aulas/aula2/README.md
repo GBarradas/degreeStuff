@@ -4,14 +4,14 @@
 
 # Exemplos  
 
-|$p$|$q$|$p\vee q$|$p \land q$| 
+|p|q|p &rarr; q|p &and; q| 
 |:-:|:-:|:-------:|:---------:|
 |v|v|v|v|
 |v|f|v|f|
 |f|v|v|f|
 |f|f|f|f|  
 
-|$p$|$q$|$\lnot p$|$p \to q$| 
+|p|q|&not; p|p &rarr; q| 
 |:-:|:-:|:-------:|:-------:|
 |v|v|f|v|
 |v|f|f|f|

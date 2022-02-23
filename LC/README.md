@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="../.github/github.css">  
+
 # Logica e Computação 
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2122/course/view.php?id=1455)
 ## Docentes:
