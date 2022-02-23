@@ -3,7 +3,8 @@
 ## Docentes:
 - Irene Pimenta Rodrigues
   > email: irp@uevora.pt  
-    link: http://home.uevora.pt/~ipr/
+    link: http://home.uevora.pt/~ipr/  
+    
 ---
 ## Plano Curricular:
 <p> 
