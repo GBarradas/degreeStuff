@@ -115,7 +115,8 @@
 6. Implemente um programa (em C) que replique o funcionamento de
 
     $ nc time.nist.gov 13  
-(i.e., liga à porta 13 do \*host\* "time.nist.gov" e faz printf do texto recebido).
+(i.e., liga à porta 13 do \*host\* "time.nist.gov" e faz printf do texto recebido).  
+ Codico:  [telnet.c](telnet.c)  
 
 
 
