@@ -15,9 +15,9 @@
 
 |Aula                   |Data   |Informações|                        |
 |-----------------------|-------|-----------|------------------------|
-|[aula1](aulas/aula1.md)|07/02/2022|Pratica|Resolução de exercicios|
-|[aula2](aulas/aula2.md)|16/02/2022|Pratica|Resolução de exercicios|
-|[aula3](aulas/aula3.md)|16/02/2022|Pratica|Resolução de exercicios|
+|[aula1](aulas/aula1)|07/02/2022|Pratica|Resolução de exercicios|
+|[aula2](aulas/aula2)|16/02/2022|Pratica|Resolução de exercicios|
+|[aula3](aulas/aula3)|16/02/2022|Pratica|Resolução de exercicios|
 
 ## Avaliações  
 
@@ -35,7 +35,7 @@
 <div>
 <ol>
     <li> Palavras, Linguagens e Expressões</li>
-    <p>&nbsp;&nbsp;Alfabetos, Palavras e Linguagens; Express˜oes Regulares</p>
+    <p>&nbsp;&nbsp;Alfabetos, Palavras e Linguagens; Expressões Regulares</p>
     <li>Autómatos Finitos</li>
     <p>Autómatos Finitos Deterministas; Computação Não Determinista; Eliminação do Não Determinismo; Minimização e Composiçãode AFD; O Pumping Lemma</p>
     <li>Gramáticas e Autómatos da Pilha</li>
