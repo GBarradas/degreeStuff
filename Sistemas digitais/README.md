@@ -3,8 +3,8 @@
 ## Docentes:
 
 - Pedro Salgueiro
-  > email: pds@uevora.pt   
-    link: http://home.uevora.pt/~pds   
+  > email: [pds@uevora.pt](pds@uevora.pt)   
+    link: [http://home.uevora.pt/~pds](http://home.uevora.pt/~pds)   
     Gabinete: CLAV-256
 
 --- 
