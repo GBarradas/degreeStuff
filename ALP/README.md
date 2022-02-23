@@ -28,7 +28,7 @@
 |Exame Normal |07/06/2022|\-|\-    |\-|
 |Exame Recurso|21/06/2022|\-|\-    |\-|
 
-
+---
 <h2>Plano Curricular:</h2>  
 <div>
 <ol>
