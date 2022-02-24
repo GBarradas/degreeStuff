@@ -14,4 +14,14 @@ Introdução: Sistema de Gestão de Bases de Dados, Modelo dos Dados, Linguagens
 <p>Modelo Relacional: Estrutura das Bases de Dados Relacionais; Álgebra Relacional (operadores); Extensões à Álgebra Re-lacional. Modiﬁcação da Base de Dados.</p>
 <p>Linguagens de manipulação de bases de dados (SQL): Estrutura básica e conjunto de operações do SQL; Funções de Agregação; Modiﬁcação da base de Dados e Vistas; Linguagem de Deﬁnição de dados.</p>
 <p>Integridade de Bases de Dados: Restrições de domínio; integridade referencial; asserções e triggers; Dependências funcionais.  </p>
-<p>Normalização de Bases de Dados: Dependências funcionais; Forma normal de Boyce-Codd e 3ª forma normal.</p>
+<p>Normalização de Bases de Dados: Dependências funcionais; Forma normal de Boyce-Codd e 3ª forma normal.</p>  
+
+---  
+
+# Ficheiros  
+
+🗂 [[parent directory]](..)  
+
+📂 [BD]()   
+&emsp;&emsp;🔗[Work_1](../../BD_Work_1/)  
+&emsp;&emsp;🔗[Work_2](../../BD_Work_2/)  
