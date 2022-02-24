@@ -18,4 +18,11 @@
 - Funções lógicas: XOR, NAND e NOR
 - Síntese de funções pelo método de bridging
 - Circuitos combinatórios
-- Circuitos semi-somador, somador, subtractor, comparador, multiplexer, demultiplexer, codiﬁcador de prioridades, descodiﬁcado
+- Circuitos semi-somador, somador, subtractor, comparador, multiplexer, demultiplexer, codiﬁcador de prioridades, descodiﬁcado  
+
+---  
+# Ficheiros
+📂 [Sistemas Digitais]()  
+&emsp;&emsp;📄 [48332_48402.pdf](48332_48402.pdf)  
+&emsp;&emsp;📄 [circuito_simplified.circ](circuito_simplified.circ)  
+

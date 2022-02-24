@@ -16,4 +16,17 @@
     <p>Construção na Natureza; Representação de Polígonod; Grafos de Cenae o Pipeline Gráfico; Sistemas de Transformações.</p> </li>
     <li>Modelação geométrica <p>Operações Geométricas Básicas; Aproximação de Curvas; Representação de Superfícies; Modelos Procedimentais; Geometria Sólida Construtiva.</p> </li>
     <li>Animação e Interação <p>Cinemática Diretae Inversa; Deteção e Resposta a Colisões; Animação por Chaves; Movimentos Baseados na Física</p></li>
-</ol>
+</ol>  
+
+---  
+# Ficheiros  
+🗂 [[parent directory]](..)   
+
+
+📂 [CG]()  
+&emsp;&emsp;📂 [Animação](Animação)  
+&emsp;&emsp;&emsp;&emsp;📄[index.html](/CG/Animação/index.html)  
+&emsp;&emsp;&emsp;&emsp;📄[figuras.js](/CG/Animação/figuras.js)       
+&emsp;&emsp;📂 [Exemplos](Exemplos)  
+&emsp;&emsp;📂 [Mod2d](Mod2d)  
+&emsp;&emsp;📂 [Programação](Programação)

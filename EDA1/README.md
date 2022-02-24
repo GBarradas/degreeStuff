@@ -18,4 +18,23 @@
     > 2. árvores, árvores Binárias, ABP’s e AVL’s: comportamento e uso das estruturas de dados.
 3. Filas com prioridade: Heaps binários; construção de um heap a partir de um vector
 4. Tabelas de Dispersão: Funções de Dispersão; Encadeamento separado; Colisões e estratégias de resolução: dispersão linear,quadrática e dispersão dupla “Rehasing"
-5. O problema da ordenação: Apresentação, análise do comportamento de Bubblesort, Insertion sort, Mergesort, Heapsort,Quicksort e Bucketsort.
+5. O problema da ordenação: Apresentação, análise do comportamento de Bubblesort, Insertion sort, Mergesort, Heapsort,Quicksort e Bucketsort.   
+   
+
+--- 
+# Ficheiros  
+
+🗂 [[parent directory]](..)  
+
+📂 [EDA1]()  
+&emsp;&emsp;📂[EDA1/Dicionarios]()    
+&emsp;&emsp;&emsp;&emsp;📄[english-freq.txt](Dicionarios/english-freq.txt)  
+&emsp;&emsp;&emsp;&emsp;📄[english.txt](Dicionarios/english.txt)  
+&emsp;&emsp;&emsp;&emsp;📄[portuguese-large.txt](Dicionarios/portuguese-large.txt)  
+&emsp;&emsp;&emsp;&emsp;📄[portuguese.txt](Dicionarios/portuguese.txt)  
+&emsp;&emsp;📄[fatal.h](fatal.h)   
+&emsp;&emsp;📄[funcions.h](funcions.h)    
+&emsp;&emsp;📄[functions.c](functions.c)   
+&emsp;&emsp;📄[main.c](main.c)    
+&emsp;&emsp;📄[work_bether.c](work_bether.c)   
+ 
