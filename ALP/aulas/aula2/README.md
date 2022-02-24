@@ -7,13 +7,14 @@
 ✓ Considere a expressão regular <img src="https://render.githubusercontent.com/render/math?math=(11 \cup 0)^*(00 \cup 1)^*"> e o respetivo diagrama.
 
 Encontre uma palavra que não case com esta expressão regular.
-O que acontece se remover a aresta λ central do diagrama simplificado?  
+O que acontece se remover a aresta λ central do diagrama simplificado?   
+[![ex16.png](ex16.png)](ex16.png)
 
 ---  
 ## [Exercício 20](https://home.uevora.pt/~fc/alp/01-palavras_linguagens_expressoes_regulares/01.90-exercicios.html#exerc%C3%ADcio-20)  
 Encontre expressões regulares para representar as seguintes linguagens:  
 
-1. ✓ A linguagem das palavras sobre ![a.b.c][a,b,c] em que todos os `a's` precedem todos os `b's` que, por sua vez, precedem todos os `c's` (donde que todos os a's precedem todos os `c's`), podendo não haver nem `a's`, nem b's, nem `c's`.  
+1. ✓ A linguagem das palavras sobre ![a.b.c][abc] em que todos os `a's` precedem todos os `b's` que, por sua vez, precedem todos os `c's` (donde que todos os a's precedem todos os `c's`), podendo não haver nem `a's`, nem b's, nem `c's`.  
 2. ✓ A linguagem da alínea anterior sem a palavra vazia.  
 3. As palavras sobre ![a.b.c][abc] de comprimento inferior a  
 4. As palavras sobre ![a.b.c][abc] que começam por `a`, acabam em `cc` e têm exatamente dois `b's`.  
