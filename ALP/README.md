@@ -17,7 +17,8 @@
 |-----------------------|-------|-----------|------------------------|
 |[aula1](aulas/aula1)|07/02/2022|Pratica|Resolução de exercicios|
 |[aula2](aulas/aula2)|16/02/2022|Pratica|Resolução de exercicios|
-|[aula3](aulas/aula3)|16/02/2022|Pratica|Resolução de exercicios|
+|[aula3](aulas/aula3)|23/02/2022|Pratica|Resolução de exercicios|
+|[aula4](aulas/aula4)|02/03/2022|Pratica|Resolução de exercicios|
 
 ## Avaliações  
 
