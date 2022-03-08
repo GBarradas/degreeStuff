@@ -1,6 +1,6 @@
 # Aula Pratica 3   
-##### *Redes de Computadores* | **Data:** 08/03/2021; **Hora**:13:30; **Duração**: 2h; **Sala**:CLAV_139; **Docente**: [Pedro Salgueiro](../../#docentes)  
-### [Pagina Principal](../../)
+##### *Redes de Computadores* | **Data:** 08/03/2021; **Hora**:13:30; **Duração**: 2h; **Sala**:CLAV_139; **Docente**: [Pedro Salgueiro](../#docentes)  
+### [Pagina Principal](../)
  ---    
 ## [Resolução de Exercicios](https://www.moodle.uevora.pt/2122/mod/page/view.php?id=51550)
 

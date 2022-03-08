@@ -1,6 +1,6 @@
 # Aula Pratica 1  
-##### *Redes de Computadores* | **Data:** 15/02/2021; **Hora**:14:00; **Duração**: 2h; **Sala**:CLAV_139; **Docente**: [Pedro Salgueiro](../../#docentes)  
-### [Pagina Principal](../../)
+##### *Redes de Computadores* | **Data:** 15/02/2021; **Hora**:14:00; **Duração**: 2h; **Sala**:CLAV_139; **Docente**: [Pedro Salgueiro](../#docentes)  
+### [Pagina Principal](../)
  ---  
 ## [Resolução de Exercicios](https://www.moodle.uevora.pt/2122/mod/page/view.php?id=46205)
 > #### [*\*Material_de_Apoio_1*](Redes%20Prática%2001.pdf)  
