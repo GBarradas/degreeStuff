@@ -12,7 +12,7 @@
 # Prerequisites
 *.d
 
-# Object files
+# Object files 
 *.ko
 *.elf
 
