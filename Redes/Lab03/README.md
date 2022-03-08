@@ -8,7 +8,7 @@
 
     a) Proponha um sistema eficiente de bit-stuffing e aplique-o à seguinte mensagem:
 
-100100011000111100001100011001000011110010101
+    100100011000111100001100011001000011110010101
 
     b) Proponha um novo sistema de bit-stuffing para a flag 110011. Aplique-o à mensagem anterior.
 
