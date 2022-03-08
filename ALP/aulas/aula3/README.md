@@ -7,13 +7,12 @@
 Seja A=({0,1,2},{x,y},{(0,x,1),(0,y,0),(1,x,1),(1,y,2),(2,x,1),(2,y,0)},0,{0}) um AFD.
 
 1. desenhe o diagrama de estados  
-    
-
-    |a|x|y|
-    |-|-|-|
-    |1|1|0|
-    |2|1|2|
-    |3|1|0|  
+    >![Diagrama](ex3.png)  
+    >|a|x|y|
+    >|-|-|-|
+    >|1|1|0|
+    >|2|1|2|
+    >|3|1|0|  
 
 2. ✓ escreva uma expressão regular que represente a linguagem reconhecida por AA
 3. ✓ repita a alínea anterior para o AFD A' que apenas difere de A no conjunto dos estados de aceitação, que no caso de A é {0,1}  
@@ -21,7 +20,9 @@ Seja A=({0,1,2},{x,y},{(0,x,1),(0,y,0),(1,x,1),(1,y,2),(2,x,1),(2,y,0)},0,{0}) u
 ---  
 ## [Exercício 5](https://home.uevora.pt/~fc/alp/02-automatos_finitos/02.90-exercicios.html#exerc%C3%ADcio-05) 
 
-Construa um autómato finito determinista que reconheça a linguagem da ER <img src="https://render.githubusercontent.com/render/math?math=\large\(ab)^*(ba)^*">
+Construa um autómato finito determinista que reconheça a linguagem da ER <img src="https://render.githubusercontent.com/render/math?math=\large\(ab)^*(ba)^*">  
+
+
 
 ---
 ## [Exercício 8](https://home.uevora.pt/~fc/alp/02-automatos_finitos/02.90-exercicios.html#exerc%C3%ADcio-08)   
