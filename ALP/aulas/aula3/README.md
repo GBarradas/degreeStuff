@@ -27,7 +27,13 @@ Construa um autómato finito determinista que reconheça a linguagem da ER <img 
 
 |q'|a|b|
 |--|-|-|
-|q':fecho(a)={0,2}
+|q':fecho(a)={02}|1 V &#8709;|{3} U 3|
+|1|&#8709;|{0,2}|
+|3|2|&#8709;|
+|&#8709;|&#8709;|&#8709;|
+|2 `F`|&#8709;|3|  
+
+![5 automato](5_aut.png)
 
 
 ---
