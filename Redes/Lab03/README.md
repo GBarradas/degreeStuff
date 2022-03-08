@@ -20,10 +20,14 @@
     Flag: 110011  
     100100011000111100001100011001<span class="green">0</span>00001111001<span class="green">0</span>0101  
 
-2. Considere dois hosts de rede, A e B, ligados entre si por um canal de 300Kbps, com um tempo de propagação entre extremidades de 75ms. A envia pacotes com 10000 bits de comprimento para B.
+2. Considere dois hosts de rede, A e B, ligados entre si por um canal de 300Kbps, com um tempo de propagação entre extremidades de 75ms. A envia pacotes com 10000 bits de comprimento para B.  
+    > Tamanho do canal = 300 Kbps = 300*10³ bps  
+
+    
 
     a) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B (assumindo que não é usado qualquer protocolo de transporte)?  
-    > 
+    >   Tempo de transmissão = 1*10³ / 300*10³ = 0.033s  
+    1 / 0.033s = 30 pacotes/s
 
     b) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B usando o protocolo Stop&Wait?
 
@@ -57,6 +61,6 @@ Usage Rate = Transmission Time / ( Transmission Time + RTT )
  ```  
  <style>
      .green{
-         color: green;
+         color: red;
      }
  </style>
