@@ -20,9 +20,14 @@ Encontre expressões regulares para representar as seguintes linguagens:
 4. As palavras sobre ![a.b.c][abc] que começam por `a`, acabam em `cc` e têm exatamente dois `b's`.  
 5. A linguagem das palavras sobre ![a.b][ab] que têm `aa` e `bb` como subpalavras.  
 6. As palavras sobre ![a.b][ab] de que `bba` não é subpalavra.  
-7. ✓ A linguagem das palavras sobre ![a.b][ab] que não têm prefixo `aaa`.  
+7. ✓ A linguagem das palavras sobre ![a.b][ab] que não têm prefixo `aaa`.   
+   ![automato](20.7_1.png)  
+   ![automato](20.7_2.png)  
+   ![automato](20.7_3.png)  
+   ![automato](20.7_4.png)  
+   
 8. ✓ A linguagem das palavras sobre ![a.b][ab] que não têm `aaa` como subpalavra.  
-9. As palavras sobre ![a.b][ab] em que `ab` não ocorre.  
+9.  As palavras sobre ![a.b][ab] em que `ab` não ocorre.  
 10. As palavras sobre ![a.b][ab] em que `ab` ocorre.  
 11. As palavras sobre ![a.b][ab] em que `ab` ocorre só uma vez.  
 
