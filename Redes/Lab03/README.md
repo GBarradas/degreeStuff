@@ -8,13 +8,22 @@
 
     a) Proponha um sistema eficiente de bit-stuffing e aplique-o à seguinte mensagem:
 
-    100100011000111100001100011001000011110010101
+    100100011000111100001100011001000011110010101  
+    >Resposta:   
+    Flag: 000111.  
+    100100011<span class="green">0</span>00011<span class="green">0</span>11000011<span class="green">0</span>00011<span class="green">0</span>001000011<span class="green">0</span>110010101
 
-    b) Proponha um novo sistema de bit-stuffing para a flag 110011. Aplique-o à mensagem anterior.
+    
+
+    b) Proponha um novo sistema de bit-stuffing para a flag 110011. Aplique-o à mensagem anterior.  
+    > Resposta:   
+    Flag: 110011  
+    100100011000111100001100011001<span class="green">0</span>00001111001<span class="green">0</span>0101  
 
 2. Considere dois hosts de rede, A e B, ligados entre si por um canal de 300Kbps, com um tempo de propagação entre extremidades de 75ms. A envia pacotes com 10000 bits de comprimento para B.
 
-    a) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B (assumindo que não é usado qualquer protocolo de transporte)?
+    a) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B (assumindo que não é usado qualquer protocolo de transporte)?  
+    > 
 
     b) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B usando o protocolo Stop&Wait?
 
@@ -45,4 +54,9 @@ Packet Transit Time = Transmission Time + Propagation Time
 Transmission Time = Packet Size / Bandwidth
 Propagation Time = Channel Length / Propagation Speed  ( ~ 200.000Km/s)
 Usage Rate = Transmission Time / ( Transmission Time + RTT )
- ```
+ ```  
+ <style>
+     .green{
+         color: green;
+     }
+ </style>
