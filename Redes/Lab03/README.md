@@ -11,22 +11,22 @@
     100100011000111100001100011001000011110010101  
     >Resposta:   
     Flag: 000111.  
-    100100011<span class="green">0</span>00011<span class="green">0</span>11000011<span class="green">0</span>00011<span class="green">0</span>001000011<span class="green">0</span>110010101
+    100100011<span class="red">0</span>00011<span class="red">0</span>11000011<span class="red">0</span>00011<span class="red">0</span>001000011<span class="red">0</span>110010101
 
     
 
     b) Proponha um novo sistema de bit-stuffing para a flag 110011. Aplique-o à mensagem anterior.  
     > Resposta:   
     Flag: 110011  
-    100100011000111100001100011001<span class="green">0</span>00001111001<span class="green">0</span>0101  
+    100100011000111100001100011001<span class="red">0</span>00001111001<span class="red">0</span>0101  
 
 2. Considere dois hosts de rede, A e B, ligados entre si por um canal de 300Kbps, com um tempo de propagação entre extremidades de 75ms. A envia pacotes com 10000 bits de comprimento para B.  
-    > Tamanho do canal = 300 Kbps = 300*10³ bps  
+    > Tamanho do canal = 300 Kbps = 300\*10³ bps  
 
     
 
     a) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B (assumindo que não é usado qualquer protocolo de transporte)?  
-    >   Tempo de transmissão = 1*10³ / 300*10³ = 0.033s  
+    >   Tempo de transmissão = 1\*10³ = 300\*10³ = 0.033s  
     1 / 0.033s = 30 pacotes/s  
 
     b) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B usando o protocolo Stop&Wait?
@@ -37,9 +37,13 @@
     > Usage Rate = Transmission Time / ( Transmission Time + RTT )  
     Usage Rate = 0.033 7(0.033/0.15) = 0.180 = 18%
 
-    d) Mantendo as condições anteriores, que tamanho de janela aconselharia usar, para um protocolo Go-Back-N?
+    d) Mantendo as condições anteriores, que tamanho de janela aconselharia usar, para um protocolo Go-Back-N?  
+    > 5
 
-    e) Qual seria um timeout adequado para este último protocolo, usando a janela proposta?
+    e) Qual seria um timeout adequado para este último protocolo, usando a janela proposta?  
+    > 5 \* 0.033 + 0.075 + 0.075 = 0.315 s  
+    timeout = 0.315 * delta  > 0  
+    =350 s
 
 
 3. Considere dois hosts de rede, A e B, ligados entre si por um canal de 1Mbps, com um tempo de propagação entre extremidades de 50ms. A envia pacotes com 1000 bytes de comprimento para B.
@@ -64,11 +68,12 @@ Propagation Time = Channel Length / Propagation Speed  ( ~ 200.000Km/s)
 Usage Rate = Transmission Time / ( Transmission Time + RTT )
  ```  
  <style>
-     .green{
+     .red{
          color: red;
      }
     .markdown-body blockquote {
-        background:#dfe2e5;
+        background:rgb(140 143 147 / 17%);
+        padding: 0 1em;
         padding: 0 1em;
         color: #000000;
         border-left: 0.25em solid #007fff;
