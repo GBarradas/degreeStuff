@@ -58,14 +58,15 @@ Encontre um AFD que aceite a linguagem das palavras...
   
 
 ---  
-<div>
+
+<div id="nav">
 <span class="left" ><a href="../aula2" >Aula Anterior</a></span>
-<span> <a href="../" >Pagina Principal</a></span>
-<span class="right" ><a href="../aula5" >Proxima Aula</a></span>
+<span> <a href="../../" >Pagina Principal</a></span>
+<span class="right" ><a href="../aula4" >Proxima Aula</a></span>
 </div>
 
 <style>
-div{
+#nav{
     position: inline-block;
     align-items: center;
     text-align: center;

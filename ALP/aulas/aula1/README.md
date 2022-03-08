@@ -93,15 +93,37 @@ Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
 [13]: https://render.githubusercontent.com/render/math?math=0
 [14]: https://render.githubusercontent.com/render/math?math=0
 [15]: https://render.githubusercontent.com/render/math?math={0^5}^3=0^{5*3}=0^{15}  
+
+<div id="nav">
+
+<span> <a href="../../" >Pagina Principal</a></span>
+<span class="right" ><a href="../aula2" >Proxima Aula</a></span>
+</div>
+
 <style>
-     .red{
-         color: red;
-     }
-    .markdown-body blockquote {
-        background:rgb(140 143 147 / 17%);
-        padding: 0 1em;
-        padding: 0 1em;
-        color: #000000;
-        border-left: 0.25em solid #007fff;
+#nav{
+    position: inline-block;
+    align-items: center;
+    text-align: center;
+    
+}
+.left{
+    float: left;
+}
+.center{
+    text-align=center;
+}
+.right{
+    float: right;
+}
+.red{
+    color: red;
+}
+.markdown-body blockquote {
+    background:rgb(140 143 147 / 17%);
+    padding: 0 1em;
+    padding: 0 1em;
+    color: #000000;
+    border-left: 0.25em solid #007fff;
     }   
  </style>
