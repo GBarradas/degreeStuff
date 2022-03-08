@@ -6,7 +6,7 @@
 
 1. Considere um sistema de framing onde a flag de início de frame é 000111. 
 
-    a) Proponha um sistema eficiente de bit-stuffing e aplique-o à seguinte mensagem:
+    ****a)**** Proponha um sistema eficiente de bit-stuffing e aplique-o à seguinte mensagem:
 
     100100011000111100001100011001000011110010101  
     >Resposta:   
@@ -15,7 +15,7 @@
 
     
 
-    b) Proponha um novo sistema de bit-stuffing para a flag 110011. Aplique-o à mensagem anterior.  
+    **b)** Proponha um novo sistema de bit-stuffing para a flag 110011. Aplique-o à mensagem anterior.  
     > Resposta:   
     Flag: 110011  
     100100011000111100001100011001<span class="red">0</span>00001111001<span class="red">0</span>0101  
@@ -25,48 +25,64 @@
 
     
 
-    a) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B (assumindo que não é usado qualquer protocolo de transporte)?  
-    >   Tempo de transmissão = 1\*10³ = 300\*10³ = 0.033s  
+    **a)** Qual é o número máximo de pacotes por segundo que A consegue transmitir para B (assumindo que não é usado qualquer protocolo de transporte)?  
+    >   Tempo de transmissão = 1\*10³ / 300\*10³ = 0.033s  
     1 / 0.033s = 30 pacotes/s  
 
-    b) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B usando o protocolo Stop&Wait?
+    **b)** Qual é o número máximo de pacotes por segundo que A consegue transmitir para B usando o protocolo Stop&Wait?
     > 0.033 s + 0.075 s + 0.075 s =0.183 s  
     1/0.183 = 5 pacotes/s
 
-    c) Qual é a taxa de utilização do canal, nas condições da alínea anterior?  
+    **c)** Qual é a taxa de utilização do canal, nas condições da alínea anterior?  
     > Usage Rate = Transmission Time / ( Transmission Time + RTT )  
     Usage Rate = 0.033 7(0.033/0.15) = 0.180 = 18%
 
-    d) Mantendo as condições anteriores, que tamanho de janela aconselharia usar, para um protocolo Go-Back-N?  
+    **d)** Mantendo as condições anteriores, que tamanho de janela aconselharia usar, para um protocolo Go-Back-N?  
     > 5
 
-    e) Qual seria um timeout adequado para este último protocolo, usando a janela proposta?  
+    **e)** Qual seria um timeout adequado para este último protocolo, usando a janela proposta?  
     > 5 \* 0.033 + 0.075 + 0.075 = 0.315 s  
-    timeout = 0.315 * delta  > 0  
+    timeout = 0.315 + delta  > 0  
     =350 s
 
 
-3. Considere dois hosts de rede, A e B, ligados entre si por um canal de 1Mbps, com um tempo de propagação entre extremidades de 50ms. A envia pacotes com 1000 bytes de comprimento para B.
+3. Considere dois hosts de rede, A e B, ligados entre si por um canal de 1Mbps, com um tempo de propagação entre extremidades de 50ms. A envia pacotes com 1000 bytes de comprimento para B.  
+    > 1Mbps = 1 \* 10⁶ bps
 
-    a) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B (assumindo que não é usado qualquer protocolo de transporte)?
+    **a)** Qual é o número máximo de pacotes por segundo que A consegue transmitir para B (assumindo que não é usado qualquer protocolo de transporte)?   
+    > 1 \* 10⁶ bps  
+    8000 bits  
+    8000 / 1000000 = 0.008 s  
+    1/0.008 = 125 pacotes/s
 
-    b) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B usando o protocolo Selective Repeat com uma janela de tamanho 3?
+    **b)** Qual é o número máximo de pacotes por segundo que A consegue transmitir para B usando o protocolo Selective Repeat com uma janela de tamanho 3?  
+    > Ta = 0.008 \* 3s = 0.024  
+    Tp  = 0.1 s  
+    T= 0.124 s  
+    1 / 0.124 = 8 janelas = 24 pacotes
 
-    c) Qual é a taxa de utilização do canal, nas condições da alínea anterior?
+    **c)** Qual é a taxa de utilização do canal, nas condições da alínea anterior?  
+    > Tu = 24 / ( 24 + 100 ) = 20%
 
-    d) Existe alguma vantagem em usar este protocolo, em detrimento de um Stop&Wait?
+    **d)** Existe alguma vantagem em usar este protocolo, em detrimento de um Stop&Wait?  
+    > 
  
-    e) Será que o tamanho de janela proposto é o ideal?
+    **e)** Será que o tamanho de janela proposto é o ideal?  
+    > 15 \* 0.008 / ( 15 \* 0.008 +100 )= 55%  
+    Logo não o tamanho não é ideal
 
-    f) Qual seria um timeout adequado para este último protocolo, usando a janela proposta   
+    **f)** Qual seria um timeout adequado para este último protocolo, usando a janela proposta   
+    > RTT = 0.1 | Tt = 0.008  
+    0.1 +0.008 +delta = 0.108 + delta = 0.115s
 
-
+  
 ``` 
 Packet Transit Time = Transmission Time + Propagation Time
 Transmission Time = Packet Size / Bandwidth
 Propagation Time = Channel Length / Propagation Speed  ( ~ 200.000Km/s)
 Usage Rate = Transmission Time / ( Transmission Time + RTT )
- ```  
+ ```   
+ ---
  <style>
      .red{
          color: red;
