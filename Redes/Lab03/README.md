@@ -34,7 +34,8 @@
     1/0.183 = 5 pacotes/s
 
     c) Qual é a taxa de utilização do canal, nas condições da alínea anterior?  
-    > Usage Rate = Transmission Time / ( Transmission Time + RTT )
+    > Usage Rate = Transmission Time / ( Transmission Time + RTT )  
+    Usage Rate = 0.033 7(0.033/0.15) = 0.180 = 18%
 
     d) Mantendo as condições anteriores, que tamanho de janela aconselharia usar, para um protocolo Go-Back-N?
 
@@ -67,6 +68,7 @@ Usage Rate = Transmission Time / ( Transmission Time + RTT )
          color: red;
      }
     .markdown-body blockquote {
+        background:#dfe2e5;
         padding: 0 1em;
         color: #000000;
         border-left: 0.25em solid #007fff;
