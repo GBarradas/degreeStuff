@@ -25,7 +25,7 @@ Encontre expressões regulares para representar as seguintes linguagens:
    ![automato](20.7_2.png)  
    ![automato](20.7_3.png)  
    ![automato](20.7_4.png)  
-   
+
 8. ✓ A linguagem das palavras sobre ![a.b][ab] que não têm `aaa` como subpalavra.  
 9.  As palavras sobre ![a.b][ab] em que `ab` não ocorre.  
 10. As palavras sobre ![a.b][ab] em que `ab` ocorre.  
@@ -33,6 +33,7 @@ Encontre expressões regulares para representar as seguintes linguagens:
 
 [ab]: https://render.githubusercontent.com/render/math?math=\{a,b\}
 [abc]: https://render.githubusercontent.com/render/math?math=\{a,b,c\}  
+
 <style>
      .red{
          color: red;
