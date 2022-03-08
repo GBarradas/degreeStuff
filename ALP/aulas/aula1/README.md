@@ -53,26 +53,25 @@ Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
     `Não percebi be como se resolveo exercicio`
 
 
-    |Valor|Esta|calculo|
-    |-----|----|-------|
-    |0    |✓ |![][0]|
-    |1    |✓ |![][1]|
-    |2    |✓ |![][2]|
-    |3    |✓ |![][3]|
-    |4    |✓ |![][4]|
-    |5    |✓ |![][5]|
-    |6    |✓ |![][6]|
-    |7    |✓ |![][7]|
-    |8    |✓ |![][8]|
-    |9    |✓ |![][9]|
-    |10   |✓ |![][10]|
-    |11   |✓ |![][11]|
-    |12   |✓ |![][12]|
-    |13   |  |![][13]|
-    |14   |  |![][14]|
-    |15   |✓ |![][15]|  
-
-     
+    >|Valor|Esta|calculo|
+    >|-----|----|-------|
+    >|0    |✓ |![][0]|
+    >|1    |✓ |![][1]|
+    >|2    |✓ |![][2]|
+    >|3    |✓ |![][3]|
+    >|4    |✓ |![][4]|
+    >|5    |✓ |![][5]|
+    >|6    |✓ |![][6]|
+    >|7    |✓ |![][7]|
+    >|8    |✓ |![][8]|
+    >|9    |✓ |![][9]|
+    >|10   |✓ |![][10]|
+    >|11   |✓ |![][11]|
+    >|12   |✓ |![][12]|
+    >|13   |  |![][13]|
+    >|14   |  |![][14]|
+    >|15   |✓ |![][15]| 
+    
     > Logo o menor possivel <img src="https://render.githubusercontent.com/render/math?math=\{\lambda,0,0^2,0^5\}^3"> com <img src="https://render.githubusercontent.com/render/math?math=\Sigma =\{0\}">
     é <img src="https://render.githubusercontent.com/render/math?math=0^{13}">
 ---  
