@@ -27,11 +27,14 @@
 
     a) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B (assumindo que não é usado qualquer protocolo de transporte)?  
     >   Tempo de transmissão = 1*10³ / 300*10³ = 0.033s  
-    1 / 0.033s = 30 pacotes/s
+    1 / 0.033s = 30 pacotes/s  
 
     b) Qual é o número máximo de pacotes por segundo que A consegue transmitir para B usando o protocolo Stop&Wait?
+    > 0.033 s + 0.075 s + 0.075 s =0.183 s  
+    1/0.183 = 5 pacotes/s
 
-    c) Qual é a taxa de utilização do canal, nas condições da alínea anterior?
+    c) Qual é a taxa de utilização do canal, nas condições da alínea anterior?  
+    > Usage Rate = Transmission Time / ( Transmission Time + RTT )
 
     d) Mantendo as condições anteriores, que tamanho de janela aconselharia usar, para um protocolo Go-Back-N?
 
@@ -63,4 +66,9 @@ Usage Rate = Transmission Time / ( Transmission Time + RTT )
      .green{
          color: red;
      }
+    .markdown-body blockquote {
+        padding: 0 1em;
+        color: #000000;
+        border-left: 0.25em solid #007fff;
+    }   
  </style>
