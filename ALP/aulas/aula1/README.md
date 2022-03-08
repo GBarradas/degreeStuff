@@ -71,9 +71,10 @@ Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
     >|13   |  |![][13]|
     >|14   |  |![][14]|
     >|15   |✓ |![][15]| 
-    
+
     > Logo o menor possivel <img src="https://render.githubusercontent.com/render/math?math=\{\lambda,0,0^2,0^5\}^3"> com <img src="https://render.githubusercontent.com/render/math?math=\Sigma =\{0\}">
-    é <img src="https://render.githubusercontent.com/render/math?math=0^{13}">
+    é <img src="https://render.githubusercontent.com/render/math?math=0^{13}">  
+    
 ---  
 
 [0]:  https://render.githubusercontent.com/render/math?math=0
