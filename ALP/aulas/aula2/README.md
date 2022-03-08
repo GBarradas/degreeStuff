@@ -27,4 +27,16 @@ Encontre expressões regulares para representar as seguintes linguagens:
 11. As palavras sobre ![a.b][ab] em que `ab` ocorre só uma vez.  
 
 [ab]: https://render.githubusercontent.com/render/math?math=\{a,b\}
-[abc]: https://render.githubusercontent.com/render/math?math=\{a,b,c\}
+[abc]: https://render.githubusercontent.com/render/math?math=\{a,b,c\}  
+<style>
+     .red{
+         color: red;
+     }
+    .markdown-body blockquote {
+        background:rgb(140 143 147 / 17%);
+        padding: 0 1em;
+        padding: 0 1em;
+        color: #000000;
+        border-left: 0.25em solid #007fff;
+    }   
+ </style>

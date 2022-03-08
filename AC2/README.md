@@ -27,4 +27,16 @@ execução fora de ordem.
 - Hierarquia de memória. 
 - Funcionamento de memórias cache: localidade, organizações de cache; consistência e coerência; análise
 de desempenho.
-- Memória virtual: princípios; organização; implementação; desempenho.
+- Memória virtual: princípios; organização; implementação; desempenho.  
+- <style>
+     .red{
+         color: red;
+     }
+    .markdown-body blockquote {
+        background:rgb(140 143 147 / 17%);
+        padding: 0 1em;
+        padding: 0 1em;
+        color: #000000;
+        border-left: 0.25em solid #007fff;
+    }   
+ </style>

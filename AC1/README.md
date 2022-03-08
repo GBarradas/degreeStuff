@@ -41,3 +41,15 @@ chamada de funções, passagem de argumentos e retorno, pilha, alocação de mem
 &emsp;&emsp;📄 [codigo-maquina.pdf](codigo-maquina.pdf)  
 &emsp;&emsp;📄 [rars.jar](rars.jar)  
 &emsp;&emsp;📄 [riscv1.asm](riscv1.asm)  
+<style>
+     .red{
+         color: red;
+     }
+    .markdown-body blockquote {
+        background:rgb(140 143 147 / 17%);
+        padding: 0 1em;
+        padding: 0 1em;
+        color: #000000;
+        border-left: 0.25em solid #007fff;
+    }   
+ </style>

@@ -26,4 +26,16 @@ Construa um autómato finito determinista que reconheça a linguagem da ER <img 
 ---
 ## [Exercício 8](https://home.uevora.pt/~fc/alp/02-automatos_finitos/02.90-exercicios.html#exerc%C3%ADcio-08)   
 Encontre um AFD que aceite a linguagem das palavras...  
-3. com subpalavra 010 ou 101.
+3. com subpalavra 010 ou 101.  
+4. <style>
+     .red{
+         color: red;
+     }
+    .markdown-body blockquote {
+        background:rgb(140 143 147 / 17%);
+        padding: 0 1em;
+        padding: 0 1em;
+        color: #000000;
+        border-left: 0.25em solid #007fff;
+    }   
+ </style>

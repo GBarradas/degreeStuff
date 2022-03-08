@@ -24,4 +24,16 @@ Introdução: Sistema de Gestão de Bases de Dados, Modelo dos Dados, Linguagens
 
 📂 [BD]()   
 &emsp;&emsp;🔗[Work_1](../../BD_Work_1/)  
-&emsp;&emsp;🔗[Work_2](../../BD_Work_2/)  
+&emsp;&emsp;🔗[Work_2](../../BD_Work_2/)   
+<style>
+     .red{
+         color: red;
+     }
+    .markdown-body blockquote {
+        background:rgb(140 143 147 / 17%);
+        padding: 0 1em;
+        padding: 0 1em;
+        color: #000000;
+        border-left: 0.25em solid #007fff;
+    }   
+ </style>

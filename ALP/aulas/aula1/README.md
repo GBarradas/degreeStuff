@@ -92,4 +92,16 @@ Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
 [12]: https://render.githubusercontent.com/render/math?math=0^5+0^5+0^2=0^{12}
 [13]: https://render.githubusercontent.com/render/math?math=0
 [14]: https://render.githubusercontent.com/render/math?math=0
-[15]: https://render.githubusercontent.com/render/math?math={0^5}^3=0^{5*3}=0^{15}
+[15]: https://render.githubusercontent.com/render/math?math={0^5}^3=0^{5*3}=0^{15}  
+<style>
+     .red{
+         color: red;
+     }
+    .markdown-body blockquote {
+        background:rgb(140 143 147 / 17%);
+        padding: 0 1em;
+        padding: 0 1em;
+        color: #000000;
+        border-left: 0.25em solid #007fff;
+    }   
+ </style>

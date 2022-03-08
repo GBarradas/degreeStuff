@@ -35,3 +35,17 @@
 3. Recursão  
     3.1. Definições Recursivas: Termos Recursivos, Relações e Funções Recursivas  
     3.2.Demonstração por Indução: Indução nos Números Naturais, Indução Estrutural  
+  
+
+  <style>
+     .red{
+         color: red;
+     }
+    .markdown-body blockquote {
+        background:rgb(140 143 147 / 17%);
+        padding: 0 1em;
+        padding: 0 1em;
+        color: #000000;
+        border-left: 0.25em solid #007fff;
+    }   
+ </style>
