@@ -17,6 +17,7 @@
 |-----------------------|-------|-----------|------------------------|
 |[Lab01](Lab01)|15/02/2022|Laboratorial|Resolução de exercicios|
 |[Lab02](Lab02)|22/02/2022|Laboratorial|Resolução de exercicos|
+|[Lab03](Lab03)|08/03/2022|Laboratorial|Resolução de exercicos|
 
 
 ---
