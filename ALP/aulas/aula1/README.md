@@ -120,7 +120,7 @@ Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
     color: red;
 }
 .markdown-body blockquote {
-    background:rgb(140 143 147 / 17%);
+    background: white;
     padding: 0 1em;
     padding: 0 1em;
     color: #000000;

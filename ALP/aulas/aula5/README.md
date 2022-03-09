@@ -28,7 +28,7 @@ Defina uma gramática independente do contexto que gere a linguagem:
 1. {wcw R  : w∈{a,b} ∗ }.  
 2. {wc n  : w∈{a,b} ∗  e n=∣w∣}.  
 3. {a i b j c k  : k≥0 e i+j=k}.  
-4. ✓ {a n b m  : m,n≥0 e m ​ =n}.  
+4. ✓ {a n b m  : m,n≥0 e m != n}.  
 5. dos números naturais sem zeros não significativos.
 
 ---  
