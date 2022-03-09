@@ -42,9 +42,19 @@ Defina uma gramática independente do contexto que gere a linguagem:
 ## [Exercico 6](https://home.uevora.pt/~fc/alp/03-gramaticas_automatos_pilha/03.90-exercicios.html#exerc%C3%ADcio-06)  
 Considere a gramática G=({A},{a,b},{A→AA ∣ aAb ∣ λ},A).
 
-1. Construa uma derivação esquerda para a palavra aababbaababb e a respetiva árvore de derivação.  
-2. Construa uma derivação direita para a palavra abababababab e a respetiva árvore de derivação.  
+1. Construa uma derivação esquerda para a palavra `aababb` e a respetiva árvore de derivação.  
+2. Construa uma derivação direita para a palavra `ababab` e a respetiva árvore de derivação.  
 3. Determine se G é ambígua. † Em caso afirmativo, apresente uma gramática não ambígua equivalente.  
+
+---  
+## [Exercico 7](https://home.uevora.pt/~fc/alp/03-gramaticas_automatos_pilha/03.90-exercicios.html#exerc%C3%ADcio-07)  
+✓ Considere a gramática independente do contexto  
+<p class="nav">G=({S},{a},{S→aa ∣ SS},S).</p>   
+
+1. Mostre que esta gramática é ambígua.  
+2. † Apresente uma gramática equivalente não ambígua.
+3. Apresente uma gramática regular equivalente.  
+4. Apresente uma expressão regular que represente a linguagem gerada pela gramática.  
 
 ---  
 
@@ -59,7 +69,7 @@ Considere a gramática G=({A},{a,b},{A→AA ∣ aAb ∣ λ},A).
     font-family: KaTeX_Math;
     font-style: italic;
 }
-#nav{
+.nav, #nav{
     position: inline-block;
     align-items: center;
     text-align: center;
