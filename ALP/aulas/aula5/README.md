@@ -23,6 +23,15 @@ Se <span class="math" >L</span> é <u> Regular</u>
 **a)** Seja <span class="math" >K</span> o numero de estados de um AFD que acita <span class="math" >L</span>
 
 ---  
+## [Exercicio 2](https://home.uevora.pt/~fc/alp/03-gramaticas_automatos_pilha/03.90-exercicios.html#exerc%C3%ADcio-01)  
+Defina uma gramática independente do contexto que gere a linguagem:  
+1. {wcw R  : w∈{a,b} ∗ }.  
+2. {wc n  : w∈{a,b} ∗  e n=∣w∣}.  
+3. {a i b j c k  : k≥0 e i+j=k}.  
+4. ✓ {a n b m  : m,n≥0 e m ​ =n}.  
+5. dos números naturais sem zeros não significativos.
+
+---  
 
 <div id="nav">
 <span class="left" ><a href="../aula4" >Aula Anterior</a></span>
