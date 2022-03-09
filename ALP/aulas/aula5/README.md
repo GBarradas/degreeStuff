@@ -1,5 +1,5 @@
 # Aula Pratica 5  
-##### *Autómatos e Liguagens de Programação* | **Data:** 09/03/2021; **Hora**:16:00; **Duração**: 2h; **Sala**:CLAV_136;**Docente**: [Francisco Coelho](../../#docentes)  
+##### *Autómatos e Liguagens de Programação* | **Data:** 09/03/2021; **Hora**:16:00; **Duração**: 2h; **Sala**:CLAV_136; **Docente**: [Francisco Coelho](../../#docentes)  
 ### [Pagina Principal](../../)  
 ---
 ## Resolução de Exercicios
@@ -8,7 +8,7 @@
 Mostre que as seguintes linguagens não são regulares:  
 
 1. ✓<span class="math" >L1</span>={1^n+1m =1 n+m: n,m≥0}.  
-2. A linguagem das palavras capicua sobre \set{a,b}{a,b}.  
+2. A linguagem das palavras capicua sobre <span class="math" >{a,b}</span>.  
 3. <span class="math" >L3</span>={aa^nb^n: n≥0}.   
 4. <span class="math" >L4</span>={0n 1 n+1  : n≥0}.  
    `Resolução ...`
