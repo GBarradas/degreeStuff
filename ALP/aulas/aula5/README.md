@@ -7,17 +7,18 @@
 
 Mostre que as seguintes linguagens não são regulares:  
 
-✓L={1^n+1m =1 n+m: n,m≥0}.  
-A linguagem das palavras capicua sobre \set{a,b}{a,b}.  
-<span class="math" >L</span>={aa^nb^n: n≥0}.   
-<span class="math" >L</span>={0n 1 n+1  : n≥0}.  
-<span class="math" >L</span>={a n cb n  : n≥0}.  
-<span class="math" >L</span>={a n b m  : m>n≥0}.  
+1. ✓L={1^n+1m =1 n+m: n,m≥0}.  
+2. A linguagem das palavras capicua sobre \set{a,b}{a,b}.  
+3. <span class="math" >L</span>={aa^nb^n: n≥0}.   
+4. <span class="math" >L</span>={0n 1 n+1  : n≥0}.  
+5. <span class="math" >L</span>={a n cb n  : n≥0}.  
+6. <span class="math" >L</span>={a n b m  : m>n≥0}.  
 
 
 ---
 ## Pumping Lemma  
-
+Se <span class="math" >L</span> é <u> Regular</u>  
+**a)** Seja <span class="math" >K</span> 
 
 ---  
 
