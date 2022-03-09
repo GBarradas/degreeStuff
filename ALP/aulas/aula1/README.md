@@ -50,7 +50,7 @@ Seja Σ={a,b}. Construa definições recursivas dos seguintes conjuntos:
 ## [Exercicio 04](https://home.uevora.pt/~fc/alp/01-palavras_linguagens_expressoes_regulares/01.90-exercicios.html#exerc%C3%ADcio-04)  
 
 - Encontre a menor palavra sobre o alfabeto <img src="https://render.githubusercontent.com/render/math?math=\Sigma =\{0\}"> que não está em <img src="https://render.githubusercontent.com/render/math?math=\{\lambda,0,0^2,0^5\}^3">.  
-    `Não percebi be como se resolveo exercicio`
+    `Não percebi be como se resolve o exercicio`
 
 
     >|Valor|Esta|calculo|
