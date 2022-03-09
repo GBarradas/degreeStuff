@@ -76,4 +76,5 @@
         border-left: 0.25em solid #007fff;
     }   
  </style>
+ <link rel="icon" href="../uevora.png">
   
