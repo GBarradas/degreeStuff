@@ -9,7 +9,7 @@ Mostre que as seguintes linguagens não são regulares:
 
 1. ✓<span class="math" >L1</span>={1^n+1m =1 n+m: n,m≥0}.  
 2. A linguagem das palavras capicua sobre <span class="math" >{a,b}</span>.  
-3. <span class="math" >L3</span>={aa^nb^n: n≥0}.   
+3. <span class="math" >L_3</span>={aa^nb^n: n≥0}.   
 4. <span class="math" >L4</span>={0n 1 n+1  : n≥0}.  
    `Resolução ...`
 5. <span class="math" >L5</span>={a n cb n  : n≥0}.  
