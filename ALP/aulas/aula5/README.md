@@ -20,7 +20,7 @@ Mostre que as seguintes linguagens não são regulares:
 ---
 ## Pumping Lemma  
 Se <span class="math" >L</span> é <u> Regular</u>  
-**a)** Seja <span class="math" >K</span> 
+**a)** Seja <span class="math" >K</span> o numero de estados de um AFD que acita <span class="math" >L</span>
 
 ---  
 
