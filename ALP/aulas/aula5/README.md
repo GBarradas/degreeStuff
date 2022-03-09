@@ -7,12 +7,14 @@
 
 Mostre que as seguintes linguagens não são regulares:  
 
-1. ✓L={1^n+1m =1 n+m: n,m≥0}.  
+1. ✓<span class="math" >L</span>={1^n+1m =1 n+m: n,m≥0}.  
 2. A linguagem das palavras capicua sobre \set{a,b}{a,b}.  
 3. <span class="math" >L</span>={aa^nb^n: n≥0}.   
 4. <span class="math" >L</span>={0n 1 n+1  : n≥0}.  
+   `Resolução ...`
 5. <span class="math" >L</span>={a n cb n  : n≥0}.  
-6. <span class="math" >L</span>={a n b m  : m>n≥0}.  
+   `Resolução ...`
+7. <span class="math" >L</span>={a n b m  : m>n≥0}.  
 
 
 ---
