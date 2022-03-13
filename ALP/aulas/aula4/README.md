@@ -19,10 +19,11 @@ Para realizar estas operações é precisso ter Autómatos finitos não defenido
 |E|Le=La*|A*|   
 
 ### Exemplos  
+## C
 ![](c.png)  
-
+## D
 ![](d.png)  
-
+## E
 ![](e.png)  
   
 # Interseção com Autómatos Finitos Deterministab  
