@@ -3,6 +3,33 @@
 ### [Pagina Principal](../../)
 ---  
 
+## Operações com Autómatos Finitos não Determinista  
+![](lr_er_af.png)   
+ 
+Para realizar estas operações é precisso ter Autómatos finitos não defenidos bem preparados.  
+![](afnd_bp.png)  
+
+
+|AFND|Linguagem|Operaçao|
+|----|---------|--------|
+|A|La=L(A)|-|
+|B|Lb=L(B)|-|
+|C|Lc=La.Lb|Concatenação de LR's|
+|D|Ld=La U Lb|União de LR's|
+|E|Le=La*|A*|   
+
+### Exemplos  
+![](c.png)  
+
+![](d.png)  
+
+![](e.png)  
+  
+# Interseção com Autómatos Finitos Deterministab  
+
+![](afd.png) ![](x.png)  
+
+![](afd&x.png)
 
 --- 
 <div id="nav">
