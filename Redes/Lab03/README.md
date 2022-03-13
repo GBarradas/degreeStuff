@@ -6,7 +6,7 @@
 
 1. Considere um sistema de framing onde a flag de início de frame é 000111. 
 
-    ****a)**** Proponha um sistema eficiente de bit-stuffing e aplique-o à seguinte mensagem:
+    **a)** Proponha um sistema eficiente de bit-stuffing e aplique-o à seguinte mensagem:
 
     100100011000111100001100011001000011110010101  
     >Resposta:   
