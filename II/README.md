@@ -13,7 +13,8 @@
 
 |Trabalhos                   |Data   |Informações|                        |
 |-----------------------|-------|-----------|------------------------|
-|[Neural Software Analysis](48092_48402_48921.pdf)|21/02/2022|Resumo de um artigo|
+|[Neural Software Analysis](aula1/48092_48402_48921.pdf)|21/02/2022|Resumo de um artigo|
+|[Pesquisa Bibligrafica](aula2/48092_48402_48921.pdf)|07/03/2021|Pesquisa Bibligrafica|
 
 ---
 ## Avaliações  
