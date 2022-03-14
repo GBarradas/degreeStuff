@@ -21,10 +21,8 @@
 
 |Avaliação    |Data      |Hora |Duração|Sala    |
 |-------------|----------|:---:|:-----:|:------:| 
-|1º Frequência|-|-|-    |-|
-|2º Frequência|-|-|-    |-|
-|Exame Normal |-|-|-    |-|
-|Exame Recurso|-|-|-    |-|  
+|Trabalho 1|-|-|-    |-|
+|Trabalho 2|-|-|-    |-|
 
 --- 
 ## Plano Curricular
