@@ -1,9 +1,16 @@
+# Implemente a funcao do enunciado.
+def is_symbol(x):
+    return (len(x)>0) and (' ' not in x)
+
+def is_variable(x):
+    return is_symbol(x) and x[0].isupper()
 
 def wellFormed(rules):
     for a in rules:
+        if not is_variable(a):
+          return False
         if  len(a)==0:
             return False
-        l=[]
         for c in a:
             if len(c)>1 or len(c)<=0 :
                 return False

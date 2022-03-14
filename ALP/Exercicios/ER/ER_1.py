@@ -13,4 +13,6 @@ def listWords(fileName):
         else:
             aux.append(string.lower())
     return aux
+
+
     
