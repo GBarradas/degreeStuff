@@ -130,23 +130,22 @@ Dicas -> responda às seguintes questões:
 
 Links úteis:
 
-- https://www.geeksforgeeks.org/socket-programming-cc/  
+- https://www.geeksforgeeks.org/socket-programming-cc/   
+
 ---  
 
 
 <div id="nav">
-<span class="left" > <a href="../../" >Pagina Principal</a></span>
-<span class="right" ><a href="../aula6" >Proxima Aula</a></span>
-</div>  
+
+<span class="left"> <a href="../../" >Pagina Principal</a></span>
+<span class="right" ><a href="../aula2" >Proxima Aula</a></span>
+</div><br>  
 
 ---  
 
+
 <style>
-    .math {
-    font-family: KaTeX_Math;
-    font-style: italic;
-}
-.nav, #nav{
+#nav{
     position: inline-block;
     align-items: center;
     text-align: center;
@@ -165,12 +164,10 @@ Links úteis:
     color: red;
 }
 .markdown-body blockquote {
-    background:rgb(140 143 147 / 17%);
+    background: white;
     padding: 0 1em;
     padding: 0 1em;
     color: #000000;
     border-left: 0.25em solid #007fff;
     }   
- </style>
-
  </style>
