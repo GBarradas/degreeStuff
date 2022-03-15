@@ -19,7 +19,8 @@
 2. Modifique o cliente da aula passada para se ligar a este novo servidor e teste os dois programas em conjunto.
 
 3. (TPC) Modifique o servidor (TCP) para funcionar como "echo server", i.e., receba uma mensagem e envie exactamente a mesma mensagem ao cliente que a enviou (como um eco). Teste com 'telnet' ou 'nc'.  
-4. <style>
+   
+<style>
      .red{
          color: red;
      }
