@@ -137,7 +137,7 @@ Links úteis:
 
 <div id="nav">
 
-<span class="left"> <a href="../../" >Pagina Principal</a></span>
+<span class="left"> <a href="../" >Pagina Principal</a></span>
 <span class="right" ><a href="../Lab02" >Proxima Aula</a></span>
 </div><br>  
 

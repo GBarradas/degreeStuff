@@ -89,7 +89,7 @@ Usage Rate = Transmission Time / ( Transmission Time + RTT )
 
 <div id="nav">
 <span class="left" ><a href="../Lab02" >Aula Anterior</a></span>
-<span> <a href="../../" >Pagina Principal</a></span>
+<span> <a href="../" >Pagina Principal</a></span>
 <span class="right" ><a href="../Lab04" >Proxima Aula</a></span>
 </div>  
 
