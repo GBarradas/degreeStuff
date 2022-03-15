@@ -15,7 +15,7 @@ Seja A=({0,1,2},{x,y},{(0,x,1),(0,y,0),(1,x,1),(1,y,2),(2,x,1),(2,y,0)},0,{0}) u
     |1|1|2|
     |2|1|0|  
 
-2. ✓ escreva uma expressão regular que represente a linguagem reconhecida por AA
+2. ✓ escreva uma expressão regular que represente a linguagem reconhecida por A
 3. ✓ repita a alínea anterior para o AFD A' que apenas difere de A no conjunto dos estados de aceitação, que no caso de A é {0,1}  
 
 ---  
