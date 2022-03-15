@@ -62,7 +62,9 @@ Considere a gramática G=({A},{a,b},{A→AA ∣ aAb ∣ λ},A).
 <span class="left" ><a href="../aula4" >Aula Anterior</a></span>
 <span> <a href="../../" >Pagina Principal</a></span>
 <span class="right" ><a href="../aula6" >Proxima Aula</a></span>
-</div>
+</div>  
+
+---  
 
 <style>
     .math {

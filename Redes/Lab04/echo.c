@@ -7,6 +7,7 @@
 #include <time.h>        
 
 #define PORT 1300
+#define BUFSIZE 256
 
 int main(int argc, char const *argv[]) 
 { 
@@ -15,7 +16,7 @@ int main(int argc, char const *argv[])
     
     int opt = 1;      // for setsockopt() SO_REUSEADDR, below
     int addrlen = sizeof(address); 
-    char buffer[256];
+    char buffer[BUFSIZE];
 
     // Creating socket file descriptor 
     if ((server_fd = socket(AF_INET, SOCK_STREAM, 0)) == 0) 
@@ -28,7 +29,7 @@ int main(int argc, char const *argv[])
     if (setsockopt(server_fd, SOL_SOCKET, SO_REUSEADDR | SO_REUSEPORT, 
                                                   &opt, sizeof(opt))) 
     { 
-        perror("setsockopt"); 
+        perror("setsockopt failed"); 
         exit(EXIT_FAILURE); 
     } 
     address.sin_family = AF_INET; 
@@ -36,30 +37,43 @@ int main(int argc, char const *argv[])
     address.sin_port = htons( PORT ); 
        
     // Bind the socket to the network address and port
-    if (bind(server_fd, (struct sockaddr *)&address,  
-                                 sizeof(address))<0) 
+    if (  bind(server_fd, (struct sockaddr *)&address, sizeof(address)) < 0  ) 
     { 
         perror("bind failed"); 
         exit(EXIT_FAILURE); 
     } 
     if (listen(server_fd, 3) < 0) 
     { 
-        perror("listen"); 
+        perror("listen failed"); 
         exit(EXIT_FAILURE); 
     }
 
-    // Wait for a connection
-    if ((new_socket = accept(server_fd, (struct sockaddr *)&address,  
-                       (socklen_t*)&addrlen))<0) 
-    { 
-        perror("accept"); 
-        exit(EXIT_FAILURE); 
+    while(1) {  // Server loop
+      // Wait for a connection
+      if ((new_socket = accept(server_fd, (struct sockaddr *)&address,  
+                               (socklen_t*)&addrlen))<0) 
+        { 
+          perror("accept failed"); 
+          exit(EXIT_FAILURE); 
+        }
+
+      printf("Client connected.\n");
+      
+      while (strncmp(buffer, "quit", 4)) {
+        bzero(buffer, BUFSIZE);
+      
+        recv(new_socket, buffer, BUFSIZE-1, 0);
+      
+        printf("Client says: '%s'\n", buffer);
+        send(new_socket, buffer, strlen(buffer), 0 );
+    
+        printf("Replied to client\n");
+      }
+
+      buffer[0] = 0;
+      
+      close(new_socket);
     }
     
-    
-    printf("Client connected.\n");
-    send(new_socket, buffer, strlen(buffer), 0 ); 
-    printf("Date sent to client\n");
-    close(new_socket);
     return 0; 
 } 
