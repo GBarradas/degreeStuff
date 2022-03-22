@@ -2,7 +2,11 @@
 ##### *Redes de Computadores* | **Data:** 15/03/2021; **Hora**:13:30; **Duração**: 2h; **Sala**:CLAV_139; **Docente**: [Pedro Salgueiro](../#docentes)  
 ### [Pagina Principal](../)
 ---    
+Considere o código dos programas [server004.c](server004.c) e [client004.c](client004.c), que correspondem a um sistema de 'echo' com ligação permanente.
 
+1. Que problemas detecta na implementação?
+
+2. Como acha que se pode resolve o problema?
 ---  
 
 <div id="nav">
