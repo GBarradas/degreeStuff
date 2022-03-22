@@ -15,9 +15,7 @@ int main(int argc, char const *argv[])
     struct sockaddr_in address;
     
     int opt = 1;      // for setsockopt() SO_REUSEADDR, below
-    int addrlen = sizeof(address);
-    int n;
-    
+    int addrlen = sizeof(address); 
     char buffer[BUFSIZE];
 
     // Creating socket file descriptor 
@@ -50,31 +48,32 @@ int main(int argc, char const *argv[])
         exit(EXIT_FAILURE); 
     }
 
-    // Wait for a connection
-    while (1) {
-        if ((new_socket = accept(server_fd, (struct sockaddr *)&address,  
-                                 (socklen_t*)&addrlen))<0) { 
-            perror("accept failed"); 
-            exit(EXIT_FAILURE); 
+    while(1) {  // Server loop
+      // Wait for a connection
+      if ((new_socket = accept(server_fd, (struct sockaddr *)&address,  
+                               (socklen_t*)&addrlen))<0) 
+        { 
+          perror("accept failed"); 
+          exit(EXIT_FAILURE); 
         }
-        printf("Client connected.\n");
-        
-        while (1) {
-            bzero(buffer, BUFSIZE);
-      
-            n = recv(new_socket, buffer, BUFSIZE-1, 0);
-            if (n<=0) {
-                printf("Client disconnected.\n");
-                break;
-            }
 
-            printf("Client says: '%s'\n", buffer);
-            send(new_socket, buffer, strlen(buffer), 0 );
+      printf("Client connected.\n");
       
-            printf("Replied to client\n");
-        }
+      while (strncmp(buffer, "quit", 4)) {
+        bzero(buffer, BUFSIZE);
+      
+        recv(new_socket, buffer, BUFSIZE-1, 0);
+      
+        printf("Client says: '%s'\n", buffer);
+        send(new_socket, buffer, strlen(buffer), 0 );
     
-        close(new_socket);
+        printf("Replied to client\n");
+      }
+
+      buffer[0] = 0;
+      
+      close(new_socket);
     }
+    
     return 0; 
 } 
