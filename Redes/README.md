@@ -18,7 +18,9 @@
 |[Lab01](Lab01)|15/02/2022|Laboratorial|Resolução de exercicios|
 |[Lab02](Lab02)|22/02/2022|Laboratorial|Resolução de exercicos|
 |[Lab03](Lab03)|08/03/2022|Laboratorial|Resolução de exercicos|
-
+|[Lab04](Lab04)|15/03/2022|Laboratorial|Resolução de exercicos|
+|[Lab05](Lab05)|22/03/2022|Laboratorial|Resolução de exercicos|
+|[Lab06](Lab06)|29/03/2022|Laboratorial|Resolução de exercicos|
 
 ---
 ## Avaliações  
