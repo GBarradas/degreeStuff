@@ -6,8 +6,30 @@
 #include <string.h> 
 #include <time.h>        
 
-#define PORT 1300
+#define PORT 1301
 #define BUFSIZE 256
+int process_client(int sock)
+{
+    int n;
+    char buf[BUFSIZE];
+
+    n = read(sock, buf, BUFSIZE);
+
+    if (n <= 0) {
+        return 0; /* client closed socket */
+    }
+    
+    buf[n] = '\0';
+
+    printf("* client %d wrote: '%s'\n", sock, buf);
+    printf("* sending back... ");
+
+    write(sock, buf, strlen(buf)+1);
+
+    printf("Ok.\n");
+
+    return 1;
+}
 
 int main(int argc, char const *argv[]) 
 { 
@@ -16,10 +38,13 @@ int main(int argc, char const *argv[])
     
     int opt = 1;      // for setsockopt() SO_REUSEADDR, below
     int addrlen = sizeof(address);
-    int n;
+    int n, i;
     
     char buffer[BUFSIZE];
 
+    fd_set master, read_fds;
+    int fdmax;
+    
     // Creating socket file descriptor 
     if ((server_fd = socket(AF_INET, SOCK_STREAM, 0)) == 0) 
     { 
@@ -50,31 +75,48 @@ int main(int argc, char const *argv[])
         exit(EXIT_FAILURE); 
     }
 
-    // Wait for a connection
-    while (1) {
-        if ((new_socket = accept(server_fd, (struct sockaddr *)&address,  
-                                 (socklen_t*)&addrlen))<0) { 
-            perror("accept failed"); 
-            exit(EXIT_FAILURE); 
-        }
-        printf("Client connected.\n");
-        
-        while (1) {
-            bzero(buffer, BUFSIZE);
-      
-            n = recv(new_socket, buffer, BUFSIZE-1, 0);
-            if (n<=0) {
-                printf("Client disconnected.\n");
-                break;
-            }
+    FD_ZERO(&master);
+    FD_ZERO(&read_fds);
+    FD_SET(server_fd, &master);
 
-            printf("Client says: '%s'\n", buffer);
-            send(new_socket, buffer, strlen(buffer), 0 );
-      
-            printf("Replied to client\n");
-        }
+    fdmax = server_fd;
     
-        close(new_socket);
+    // Main loop
+    while (1) {
+        read_fds = master;
+
+        select(fdmax+1, &read_fds, NULL, NULL, NULL);
+        for(int j =  0; i<=fdmax;++j){
+            
+        }
+
+        for (i = 0; i <= fdmax; i++) {
+            if (FD_ISSET(i, &read_fds)) {
+                if (i == server_fd) { // New conection, accept() it
+                    if ((new_socket = accept(server_fd,
+                                             (struct sockaddr *)&address,  
+                                             (socklen_t*)&addrlen))<0) { 
+                        perror("accept failed"); 
+                        exit(EXIT_FAILURE); 
+                    }
+                    printf("Client connected.\n");
+                    
+                    if (new_socket > fdmax) {
+                        fdmax = new_socket;
+                    }
+                    FD_SET(new_socket, &master);
+                }
+
+                else { // "Old" client sent data, read() it
+                    if (process_client(i) == 0) { // client close()d
+                        FD_CLR(i, &master);
+                        close(i);
+                        printf("Client disconnected.\n");
+                    }
+                    else { /* already processed */ }
+                }
+            }
+        }
     }
     return 0; 
 } 

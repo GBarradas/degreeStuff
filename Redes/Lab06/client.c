@@ -53,37 +53,9 @@ int main(int argc, char *argv[]) {
       * will be read by server
    */
 
-   while (1) {
-     printf("Message: ");
-     bzero(buffer,256);
-     fgets(buffer,255,stdin);
+    //verify user name
 
-     buffer[strlen(buffer)-1] = '\0';
-     
-     /* Send message to the server */
-     n = write(sockfd, buffer, strlen(buffer));
 
-     if (n < 0) {
-       perror("ERROR writing to socket");
-       exit(1);
-     }
-
-     if (strcmp(buffer, "QUIT") == 0) {
-       printf("Bye!!!\n");
-       exit(0);
-     }
-     
-     /* Now read server response */
-     bzero(buffer,256);
-     n = read(sockfd, buffer, 255);
-     
-     if (n < 0) {
-       perror("ERROR reading from socket");
-       exit(1);
-     }
-     
-     printf("Host return: ");
-     printf("%s\n",buffer);
-   }
-   return 0;
+    //send messages
+   
 }
