@@ -6,7 +6,9 @@ Considere o código dos programas [server004.c](server004.c) e [client004.c](cli
 
 1. Que problemas detecta na implementação?
 
-2. Como acha que se pode resolve o problema?
+2. Como acha que se pode resolve o problema?  
+
+
 ---  
 
 <div id="nav">
