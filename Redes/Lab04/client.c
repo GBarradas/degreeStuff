@@ -29,7 +29,7 @@ int main(int argc, char *argv[]) {
    }
 	
    server = gethostbyname(argv[1]);
-   
+   printf("%s",argv[1]);
    if (server == NULL) {
       fprintf(stderr,"ERROR, no such host\n");
       exit(0);
@@ -79,6 +79,7 @@ int main(int argc, char *argv[]) {
        exit(1);
      }
      
+     printf("Host return: ");
      printf("%s\n",buffer);
    }
    return 0;
