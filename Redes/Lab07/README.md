@@ -12,15 +12,15 @@
 
 4. Para cada um dos endereços IP seguintes, diga se estão contidos na rede com o prefixo 192.168.0.128/28:
 
-  a) 192.168.0.129
+    a) 192.168.0.129
 
-  b) 192.168.0.145
+    b) 192.168.0.145
 
-  c) 192.168.1.129
+    c) 192.168.1.129
 
-  d) 192.168.0.1
+    d) 192.168.0.1
 
-  e) 192.168.0.140
+    e) 192.168.0.140
 
 5. Aumente o programa que fez em (3) para poder responder também a perguntas do género da pergunta anterior.
 
