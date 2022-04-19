@@ -19,7 +19,7 @@
 🔑 [LICENCE](LICENSE)    
 📄 [Plano_de_Estudos.pdf ](Plano_de_Estudos.pdf)  
 
-
+---
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBarradas&hide=Roff,Tex&langs_count=8&exclude_repo=Gbarradas.github.io,P1-mineweeper,e-comercy,Gbarradas,CG-Work)](https://github.com/anuraghazra/github-readme-stats)  
