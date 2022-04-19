@@ -1,8 +1,9 @@
 # Aula Pratica 8   
-##### *Redes de Computadores* | **Data:** --/04/2021; **Hora**:13:30; **Duração**: 2h; **Sala**:CLAV_139; **Docente**: [Pedro Salgueiro](../#docentes)  
+##### *Redes de Computadores* | **Data:** 19/04/2021; **Hora**:13:30; **Duração**: 2h; **Sala**:CLAV_139; **Docente**: [Pedro Salgueiro](../#docentes)  
 ### [Pagina Principal](../)
 ---  
-
+![](ex_redes1.png)  
+![](ex_redes2.png)
 
 ---  
 

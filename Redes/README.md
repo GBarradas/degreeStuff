@@ -22,7 +22,7 @@
 |[Lab05](Lab05)|22/03/2022|Laboratorial|Resolução de exercicos|
 |[Lab06](Lab06)|29/03/2022|Laboratorial|Resolução de exercicos|
 |[Lab07](Lab07)|12/03/2022|Laboratorial|Resolução de exercicos|
-|[Lab08](Lab08)|--/03/2022|Laboratorial|Resolução de exercicos|
+|[Lab08](Lab08)|19/03/2022|Laboratorial|Resolução de exercicos|
 
 ---
 ## Avaliações  
