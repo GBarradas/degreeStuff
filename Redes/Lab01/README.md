@@ -130,7 +130,7 @@ Dicas -> responda às seguintes questões:
 
 Links úteis:
 
-- https://www.geeksforgeeks.org/socket-programming-cc/   
+- [https://www.geeksforgeeks.org/socket-programming-cc/](https://www.geeksforgeeks.org/socket-programming-cc/)     
 
 ---  
 
