@@ -15,7 +15,7 @@ def is_rule(x):
 def is_grammar(x):
     if len(x) == 2:
         (p,s) = x
-        return is_variable(s) and all(is_rule(c) for c in p)
+        return all(is_rule(c) for c in p) and is_variable(s)
     else:
         return False
 def is_regular(x):
