@@ -23,3 +23,4 @@
 
 
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Gbarradas/degreeStuff" frameborder="0"></iframe>
+<link rel="icon" href="/uevora.png" />

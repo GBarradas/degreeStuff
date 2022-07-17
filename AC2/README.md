@@ -28,7 +28,7 @@ execução fora de ordem.
 - Funcionamento de memórias cache: localidade, organizações de cache; consistência e coerência; análise
 de desempenho.
 - Memória virtual: princípios; organização; implementação; desempenho.  
-- <style>
+<style>
      .red{
          color: red;
      }
@@ -39,4 +39,5 @@ de desempenho.
         color: #000000;
         border-left: 0.25em solid #007fff;
     }   
- </style><link rel="icon" href="../uevora.png">
+ </style>
+ <link rel="icon" href="../uevora.png">
