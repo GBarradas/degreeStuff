@@ -1,5 +1,5 @@
 
-# Intrudoção à Invvestigação
+# Aprendizagem Automática
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2223/course/view.php?id=392)
 ## Docentes:
 - Luis Rato
