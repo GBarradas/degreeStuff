@@ -7,6 +7,25 @@
     link: [http://www.di.uevora.pt/~spa/](http://www.di.uevora.pt/~spa/)   
     Gabinete: CLAV-240
 
+---
+## Avaliação  
+
+|  Avaliação  |Data      |Hora |Sala|  
+|:-----------:|:--------:|:---:|----|  
+|1º Frequência|-|-|-|  
+|2º Frequência|-|-|-|  
+|3º Frequência|-|-|-|  
+|Exame Normal |-|-|-|  
+|Exame Recurso|-|-|-|  
+  
+|Avaliação  |Data |
+|:---------:|:---:|
+|1º Trabalho|-|  
+|2º Trabalho|-|  
+
+
+
+
 --- 
 ## Plano Curricular
 

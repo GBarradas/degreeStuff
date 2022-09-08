@@ -5,9 +5,29 @@
 - José Saias
   > email: [jsaias@uevora.pt](jsaias@uevora.pt)   
     link: [http://www.di.uevora.pt/~jsaias/](http://www.di.uevora.pt/~jsaias/)   
-    Gabinete: CLAV-251
+    Gabinete: CLAV-246
+
+---
+## Avaliação  
+
+|  Avaliação  |Data      |Hora |Sala|  
+|:-----------:|:--------:|:---:|----|  
+|1º Frequência|13/10/2022|-|-|  
+|2º Frequência|17/11/2022|-|-|  
+|3º Frequência|06/01/2023|-|-|  
+|Exame Normal |06/01/2023|-|-|  
+|Exame Recurso|25/01/2023|-|-|  
+  
+|Avaliação  |Data |
+|:---------:|:---:|
+|1º Trabalho|-|  
+|2º Trabalho|-|  
+
+
 
 --- 
+
+
 ## Plano Curricular
 Introdução
 - conceitos, origem e perspetiva histórica da Web

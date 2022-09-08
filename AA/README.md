@@ -8,6 +8,23 @@
     Gabinete: CLAV-246
 
 
+---
+## Avaliação  
+
+|  Avaliação  |Data      |Hora |Sala|  
+|:-----------:|:--------:|:---:|----|  
+|1º Frequência|-|-|-|  
+|2º Frequência|-|-|-|  
+|3º Frequência|-|-|-|  
+|Exame Normal |-|-|-|  
+|Exame Recurso|-|-|-|  
+  
+|Avaliação  |Data |
+|:---------:|:---:|
+|1º Trabalho|-|  
+|2º Trabalho|-|  
+
+
 ---  
 
 ## Plano Curricular
