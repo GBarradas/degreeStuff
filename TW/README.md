@@ -1,1 +1,53 @@
+# Tecnologias Web
+[ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2223/course/view.php?id=493)
+## Docentes:
+
+- José Saias
+  > email: [jsaias@uevora.pt](jsaias@uevora.pt)   
+    link: [http://www.di.uevora.pt/~jsaias/](http://www.di.uevora.pt/~jsaias/)   
+    Gabinete: CLAV-251
+
+--- 
+## Plano Curricular
+Introdução
+- conceitos, origem e perspetiva histórica da Web
+- infraestrutura, alojamento de conteúdos
+
+Programação para a Web
+- Levantamento de requisitos
+- client side, server side
+- Servidores aplicacionais
+- Linguagens, Frameworks, WebContainers e WebApp deployment
+- Modelo MVC
+- Usabilidade
+- Desenvolvimento Multiplataforma
+- Progressive Web Apps
+
+Segurança em Aplicações Web
+- análise de riscos no cliente, no servidor e na rede
+- estudo de vulnerabilidades comuns
+- mecanismos de proteção para autenticação e confidencialidade
+
+Qualidade
+- Normas e boas práticas
+- Métricas para a qualidade do serviço
+- Ferramentas para avaliação da qualidade do serviço
+
+---  
+
+ 
+
+ <style>
+     .red{
+         color: red;
+     }
+    .markdown-body blockquote {
+        background:rgb(140 143 147 / 17%);
+        padding: 0 1em;
+        padding: 0 1em;
+        color: #000000;
+        border-left: 0.25em solid #007fff;
+    }   
+ </style>
+ <link rel="icon" href="../uevora.png">
 
