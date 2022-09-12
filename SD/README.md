@@ -61,7 +61,7 @@ Data-Intensive Computing, Paradigma Map-Reduce
 
 ---  
 
- 
+<link rel="icon" href="../uevora.png">
 
  <style>
      .red{
