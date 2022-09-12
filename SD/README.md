@@ -61,8 +61,6 @@ Data-Intensive Computing, Paradigma Map-Reduce
 
 ---  
 
-<link rel="icon" href="../uevora.png">
-
  <style>
      .red{
          color: red;
@@ -76,6 +74,5 @@ Data-Intensive Computing, Paradigma Map-Reduce
     }   
  </style>
  <head>
-    <link rel="icon" href="../uevora.png">
- </head>
+
 
