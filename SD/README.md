@@ -75,5 +75,7 @@ Data-Intensive Computing, Paradigma Map-Reduce
         border-left: 0.25em solid #007fff;
     }   
  </style>
- <link rel="icon" href="../uevora.png">
+ <head>
+    <link rel="icon" href="../uevora.png">
+ </head>
 
