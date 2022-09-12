@@ -13,11 +13,10 @@
 
 |  Avaliação  |Data      |Hora |Sala|  
 |:-----------:|:--------:|:---:|----|  
-|1º Frequência|-|-|-|  
-|2º Frequência|-|-|-|  
-|3º Frequência|-|-|-|  
-|Exame Normal |-|-|-|  
-|Exame Recurso|-|-|-|  
+|1º Frequência|24/10/2022|-|-|  
+|2º Frequência|19/12/2022|-|-|  
+|Exame Normal |09/01/2023|-|-|  
+|Exame Recurso|26/01/2023|-|-|  
   
 |Avaliação  |Data |
 |:---------:|:---:|
