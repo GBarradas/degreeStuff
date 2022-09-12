@@ -5,9 +5,16 @@
 - José Saias
   > email: [jsaias@uevora.pt](jsaias@uevora.pt)   
     link: [http://www.di.uevora.pt/~jsaias/](http://www.di.uevora.pt/~jsaias/)   
-    Gabinete: CLAV-246
+    Gabinete: CLAV-256
 
----
+---  
+## Aulas  
+|Aula|Tipo|Data|Informações|
+|----|:--:|----|-----------|
+|[Aula 1](aulas/p1.md)|Pratica|12/09/2022|-|   
+   
+   
+---  
 ## Avaliação  
 
 |  Avaliação  |Data      |Hora |Sala|  

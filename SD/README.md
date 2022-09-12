@@ -6,7 +6,7 @@
 - José Saias
   > email: [jsaias@uevora.pt](jsaias@uevora.pt)   
     link: [http://www.di.uevora.pt/~jsaias/](http://www.di.uevora.pt/~jsaias/)   
-    Gabinete: CLAV-246
+    Gabinete: CLAV-256
 
 ---
 
