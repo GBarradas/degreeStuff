@@ -8,12 +8,13 @@
     Gabinete: CLAV-256
 
 ---  
-## Aulas  
+## Aulas   
+
 |Aula|Tipo|Data|Informações|
 |----|:--:|----|-----------|
 |[Aula 1](aulas/p1.md)|Pratica|12/09/2022|-|   
    
-   
+
 ---  
 ## Avaliação  
 
