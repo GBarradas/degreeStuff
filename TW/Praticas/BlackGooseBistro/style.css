@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+h3, h2{
+    color: orange;
+}
+hr{
+    border: 1px solid blue;
+}
+body{
+    background-color:bisque;
+    display: block;
+    margin: 8px;
+    border-collapse: collapse;
+    margin-left: 20vw;
+    width: 60vw;
+}

@@ -1,0 +1,25 @@
+<html>
+
+<body>
+<h1> Black Goose Bistro</h1>
+
+<h2>Menu</h2>
+<h3>Fish1</h3>
+<p style="height:5em;">...</p>
+<h3>Fish2</h3>
+<p style="height:5em;">...</p>
+<h3>Fish3</h3>
+<p style="height:5em;">...</p>
+<h3>Fish4</h3>
+<p style="height:5em;">...</p>
+<h3>Meat1</h3>
+<p style="height:5em;">...</p>
+<h3>Meat2</h3>
+<p style="height:5em;">...</p>
+<h3>Meat3</h3>
+<p style="height:5em;">...</p>
+<h3>Meat4</h3>
+<p style="height:5em;">...</p>
+<hr>
+</body>
+</html>
