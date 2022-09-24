@@ -10,6 +10,14 @@
 
 ---
 
+|Aula|Data|Tipo|Observações|
+|----|----|----|-----------|
+|[Aula2](Praticas/aula2/)|21/09/2022|Pratica||  
+
+
+
+---
+
 ## Avaliação  
 
 |  Avaliação  |Data      |Hora |Sala|  
