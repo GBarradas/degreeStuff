@@ -1,5 +1,5 @@
 # Aula Pratica 2  
-##### *Sistemas Distribuidos* | **Data:** 21/09/2021; **Hora**:17:00; **Duração**: 2h ; **Sala**:CLAV_137;**Docente**: [José Saias](../#docentes)  
+##### *Sistemas Distribuidos* | **Data:** 21/09/2021; **Hora**:17:00; **Duração**: 2h ; **Sala**:CLAV_137;**Docente**: [José Saias](../../#docentes)  
 ### [Pagina Principal](../../)  
 ---
 # Sockets e IO Streams  
@@ -143,7 +143,7 @@ Complete a aplicação servidor do serviço "echo", com o protocolo TCP.
 
 ---
 
-exercício
+**exercício** 
 Faça um pequeno ajuste no servidor:  
 - recorra à classe java.io.BufferedReader para ler a String recebida, com o respectivo método  readLine().  
 Veja aqui um exemplo de inicialização de um objecto deste tipo:  
@@ -171,8 +171,8 @@ Teste ambas as aplicações.
 
 **Videos de apoio** 
 
-[cliente echo](https://drive.google.com/file/d/1nYf0cml3xvrCP2XKBfBIpDu3wQlVf6hg/view?usp=sharing)
-[servidor echo](https://drive.google.com/file/d/1eHBb7jXy3slV_1dYfGFdrp0dxKluZ30D/view?usp=sharing)
+[cliente echo](https://drive.google.com/file/d/1nYf0cml3xvrCP2XKBfBIpDu3wQlVf6hg/view?usp=sharing)  
+[servidor echo](https://drive.google.com/file/d/1eHBb7jXy3slV_1dYfGFdrp0dxKluZ30D/view?usp=sharing)  
 
 ---  
 ## Outras dicas:  
