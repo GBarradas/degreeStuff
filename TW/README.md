@@ -13,6 +13,7 @@
 |Aula|Tipo|Data|Informações|
 |----|:--:|----|-----------|
 |[Aula 1](aulas/p1.md)|Pratica|12/09/2022|-|   
+|[Aula 2](aulas/p2.md)|Pratica|19/09/2022|-|  
    
  
 ---  
