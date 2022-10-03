@@ -1,0 +1,23 @@
+h1, h2 {
+    color:red;
+    
+}
+h2{
+    color: grey !important;
+    margin-left: 100px;
+}
+h1{
+    border-bottom: 1px solid red;
+}
+p{
+    font-size: small;
+    font-family: sans-serif;
+    margin-left: 100px;
+}
+p img{
+    float: right;
+    margin: 12px 0px;
+}
+p * {
+    color: blue;
+}
