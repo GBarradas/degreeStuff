@@ -240,3 +240,5 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/java,c,python,assembler
 # files
 **/autoPush.py
+/SD/Praticas/aula7/jdbc_nb/nbproject/private/
+/SD/Praticas/aula10/paral02/nbproject/private/

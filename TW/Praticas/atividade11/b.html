@@ -1,0 +1,73 @@
+<!DOCTYPE html> <html>
+<body>
+<h2>Aula</h2>
+<h3>fonte de dados</h3>
+<textarea id="src1" rows="10" cols="60">
+{
+   "notas":[
+      {"aluno":"90001",
+       "aval":{
+         "f1":11,
+         "f2":12,
+         "f3":15
+      }},
+      {"aluno":"90002",
+       "aval":{
+         "f1":11,
+         "f2":12,
+         "f3":15
+      }}
+   ]
+}
+</textarea>
+<button onclick="clickbutton()" >Click me</button>
+<h3>resultado</h3>
+<p id="target"></p>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script>
+    function clickbutton(){
+        let p = document.getElementById('target')
+        let info = document.getElementById('src1').value
+        //alert(typeof info)
+        let obj = JSON.parse(info)
+        let af1=[], af2=[], af3=[];
+        let al = [];
+        obj['notas'].forEach(function (aluno){
+            al.push(aluno.aluno)
+            af1.push(aluno.aval.f1)
+            af2.push(aluno.aval.f2)
+            af3.push(aluno.aval.f3)
+        })
+        var data = [
+            {
+                y: af1,
+                x: al,
+                type: 'bar'
+            },
+            {
+                y: af2,
+                x: al,
+                type: 'bar'
+            },
+            {
+                y: af3,
+                x: al,
+                type: 'bar'
+            }]
+        var layout = {
+            yaxis: {range:[0, 20], title:'Notas'},
+            xaxis: {title: 'alunos'},
+            title: 'Notas freq'
+        };
+        Plotly.newPlot("target", data,layout)
+
+    }
+
+    clickbutton()
+    // obter e mostrar conteúdo de src1
+    // mostrar o tipo
+    // converter para Object
+    // no parágrafo com identificador "target", mostrar a média de cada aluno
+</script>
+</body>
+</html>

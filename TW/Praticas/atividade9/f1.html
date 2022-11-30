@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>conversor</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <script>
+            
+            const coins = ['EUR', 'USD', 'GBP', 'BRL']
+            function validCoin(c){
+                document.getElementById("alertas").replaceChildren()
+                let isvalid=false
+                for( cc of coins){
+                    if(cc==c.value)
+                        isvalid = true
+                }
+                if(!isvalid){
+
+                    if(c.name=="from"){
+                        
+                        document.getElementById("alertas").appendChild(document.createTextNode( "moeda de origem Inválida"))
+                        document.getElementById("alertas").appendChild(document.createElement("br"))
+                    }   
+                    else{
+                        
+                        document.getElementById("alertas").appendChild(document.createTextNode("moeda de destino Inválida\n"))
+                        document.getElementById("alertas").appendChild(document.createElement("br"))
+                    }
+                }
+                let from = document.forms["conversor"]["from"].value
+                let to = document.forms["conversor"]["to"].value
+                document.getElementById("conv_zone").textContent= `${from} to ${to}`
+
+                return isvalid
+            }
+            function validForm(form){
+                //console.log(form)
+                let f =document.forms[form] 
+                let isvalid=false
+                let c = f['from'].value
+                for( cc of coins){
+                    if(cc==c)
+                        isvalid = true
+                }
+                if(!isvalid){
+                    alert("Moeda de origem ivalida")
+                    return false
+                }
+                isvalid=false
+                c = f['to'].value
+                for( cc of coins){
+                    if(cc==c)
+                        isvalid = true
+                }
+                if(!isvalid){
+                    alert("Moeda de destino ivalida")
+                    return false
+                }
+                if(f['from'].value==""){
+                    alert("Por favor, preencha todos os campos!!")
+                    return false
+                }
+                if(f['to'].value==""){
+                    alert("Por favor, preencha todos os campos!!")
+                    return false
+                }
+                if(f['value'].value==""){
+                    alert("Por favor, preencha todos os campos!!")
+                    return false
+                }
+            }
+        </script>
+        <h1>Câmbio</h1>
+        <form action="https://www.bportugal.pt/conversor-moeda" method="POST" name="conversor" onsubmit="return validForm(this.name)" >
+            <p>
+                Moeda de origem:
+                <input type="text" name="from" size="10" onchange="validCoin(this)">
+                Moeda final:
+                <input type="text" name="to" size="10" onchange="validCoin(this)">
+            </p>            
+            <p>
+                Valor a converter: <span id="conv_zone"></span>
+                <input type="text" name="value" id="conv_value" value="1">
+            </p>         
+
+            <input type="submit" value="converter">
+        </form>
+        <div id="alertas" style="color:red;">
+        </div>
+    </body>
+</html>
