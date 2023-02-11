@@ -13,9 +13,3 @@
 [submodule "P2/Work"]
 	path = P2/Work
 	url = https://github.com/GBarradas/P2-Work
-[submodule "MDS/Parte1"]
-	path = MDS/Parte1
-	url = https://gitlab.com/trabalho-mds/comer_evora.git
-[submodule "MDS/Parte2"]
-	path = MDS/Parte2
-	url = https://gitlab.com/trabalho-mds/comer_evora.wiki.git
