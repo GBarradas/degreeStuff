@@ -2,11 +2,11 @@
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2122/course/view.php?id=1566)
 ## Docentes:
 - Pedro Patinho
-  > email: [pp@uevora.pt](malito:pp@uevora.pt)   
+  > email: [pp@uevora.pt](mailto:pp@uevora.pt)   
     link: [http://home.uevora.pt/~pp](http://home.uevora.pt/~pp)  
     Gabinete: CLAV-256
 - Pedro Salgueiro
-  > email: [pds@uevora.pt](malito:pds@uevora.pt)   
+  > email: [pds@uevora.pt](mailto:pds@uevora.pt)   
     link: [http://home.uevora.pt/~pds](http://home.uevora.pt/~pds)   
     Gabinete: CLAV-256
 
@@ -23,18 +23,6 @@
 |[Lab06](Lab06)|29/03/2022|Laboratorial|Resolução de exercicos|
 |[Lab07](Lab07)|12/03/2022|Laboratorial|Resolução de exercicos|
 |[Lab08](Lab08)|19/03/2022|Laboratorial|Resolução de exercicos|
-
----
-## Avaliações  
-
-|Avaliação    |Data      |Hora |Duração|Sala    |
-|-------------|----------|:---:|:-----:|:------:| 
-|1º Frequência|10/03/2022|18:00|01:30 -2h|CLAV-130|
-|2º Frequência|21/04/2022|18:00|01:30 -2h|CLAV-130|
-|3º Frequência|02/06/2022|10:00|01:30 -2h|CLAV-Anf.2|
-|Exame Normal |02/06/2022|10:00|01:30 -2h|CLAV-Anf.2|
-|Exame Recurso|15/06/2022|10:00|01:30 -2h|CLAV-129|  
-|1º Trabalho  |26/04/2022|23:59|-        |-|
 
 --- 
 ## Plano Curricular

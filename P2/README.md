@@ -2,11 +2,11 @@
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2122/course/view.php?id=41)
 ## Docentes:
 - Vitor Beires Nogueira
-  > email: [vbn@uevora.pt](vbn@uevora.pt)    
+  > email: [vbn@uevora.pt](mailto:vbn@uevora.pt)    
     link: [http://home.uevora.pt/~vbn](http://home.uevora.pt/~vbn)  
     Gabinete: CLAV- 249
 - Francisco Coelho
-  > email: [fc@uevora.pt](fc@uevora.pt)    
+  > email: [fc@uevora.pt](mailto:fc@uevora.pt)    
     link: [http://home.uevora.pt/~fc](http://home.uevora.pt/~fc)  
     Gabinete: CLAV- 249
 

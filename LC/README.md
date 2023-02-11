@@ -2,7 +2,7 @@
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2122/course/view.php?id=1455)
 ## Docentes:
 - Francisco Coelho
-  > email: [fc@uevora.pt](fc@uevora.pt)  
+  > email: [fc@uevora.pt](mailto:fc@uevora.pt)  
     link: [http://home.uevora.pt/~fc](http://home.uevora.pt/~fc)  
     Gabinete: CLAV- 249
 

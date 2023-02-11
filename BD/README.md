@@ -2,7 +2,7 @@
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2122/course/view.php?id=259)
 ## Docentes:
 - Irene Pimenta Rodrigues
-  > email: [irp@uevora.pt](irp@uevora.pt)  
+  > email: [irp@uevora.pt](mailto:irp@uevora.pt)  
     link: [http://home.uevora.pt/~ipr/ ](http://home.uevora.pt/~ipr/ )   
     Gabinete: CLAV-240
     

@@ -3,7 +3,7 @@
 ## Docentes:
 
 - José Saias
-  > email: [jsaias@uevora.pt](jsaias@uevora.pt)   
+  > email: [jsaias@uevora.pt](mailto:jsaias@uevora.pt)   
     link: [http://www.di.uevora.pt/~jsaias/](http://www.di.uevora.pt/~jsaias/)   
     Gabinete: CLAV-256
 

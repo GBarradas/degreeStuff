@@ -3,7 +3,7 @@
 ## Docentes:
 
 - Salvador Abreu
-  > email: [spa@uevora.pt](spa@uevora.pt)   
+  > email: [spa@uevora.pt](mailto:spa@uevora.pt)   
     link: [http://www.di.uevora.pt/~spa/](http://www.di.uevora.pt/~spa/)   
     Gabinete: CLAV-240
 

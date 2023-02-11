@@ -3,7 +3,7 @@
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2223/course/view.php?id=392)
 ## Docentes:
 - Luis Rato
-  > email: [lmr@uevora.pt](lmr@uevora.pt)  
+  > email: [lmr@uevora.pt](mailto:lmr@uevora.pt)  
     link: [http://home.uevora.pt/~lmr](http://home.uevora.pt/~lmr)  
     Gabinete: CLAV-246
 

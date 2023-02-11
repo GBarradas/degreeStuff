@@ -2,15 +2,15 @@
 [ <img width="75px" src="https://github.com/GBarradas/GBarradas/blob/main/img/moodle.png?raw=true">](https://www.moodle.uevora.pt/2021/course/view.php?id=759)
 ## Docentes:
 - Teresa Gonçalves
-  > email: [tcg@uevora.pt](tcg@uevora.pt)  
+  > email: [tcg@uevora.pt](mailto:tcg@uevora.pt)  
     link: [http://home.uevora.pt/~tcg](http://home.uevora.pt/~tcg)  
     Gabinete: CLAV-246
 - Miguel Barão
-  > email: [mjsb@uevora.pt](mjsb@uevora.pt)   
+  > email: [mjsb@uevora.pt](mailto:mjsb@uevora.pt)   
     link: [http://home.uevora.pt/~mjsb](http://home.uevora.pt/~mjsb)  
     Gabinete: CLAV-256
 - Vitor Beires Nogueira
-  > email: [vbn@uevora.pt](vbn@uevora.pt)  
+  > email: [vbn@uevora.pt](mailto:vbn@uevora.pt)  
     link: [http://home.uevora.pt/~vbn](http://home.uevora.pt/~vbn)  
     Gabinete: CLAV-249
 
