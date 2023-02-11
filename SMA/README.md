@@ -9,7 +9,13 @@
 
 ---  
 
-## Plano Curricular
+## Plano Curricular  
+Introdução aos sistemas móveis: características, restrições e desafios.
+Metodologias e padrões de arquitectura de desenvolvimento para sistemas móveis
+Elaboração de aplicações móveis
+* Android
+* (Progressive) Web Apps
+
 
 <style>
      .red{
