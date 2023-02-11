@@ -1,0 +1,1 @@
+![Diagrama de Atividades](media/dg.atividades.png)
