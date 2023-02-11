@@ -15,14 +15,12 @@
 |-----------------------|-------|-----------|------------------------|
 |[Neural Software Analysis](aula1/48092_48402_48921.pdf)|21/02/2022|Resumo de um artigo|
 |[Pesquisa Bibligrafica](aula2/48092_48402_48921.pdf)|07/03/2022|Pesquisa Bibligrafica|
+|[Tema Artigo](Tema.pdf)|27/03/2022|Escolher um tema e escrever um resumo para posteriormente escrever um artigo sobre o mesmo|
+|[Artigo V.1](Artigo.pdf)|20/04/2022|Artigo sobre o tema escolhido de forma a aplica-lo em novos produtos|
+|[Artigo Final](Artigo_melhorado.pdf)|05/06/2022|Artigo final apos resolver alguns erros|  
 
----
-## Avaliações  
 
-|Avaliação    |Data      |Hora |Duração|Sala    |
-|-------------|----------|:---:|:-----:|:------:| 
-|Trabalho 1|-|-|-    |-|
-|Trabalho 2|-|-|-    |-|
+
 
 --- 
 ## Plano Curricular

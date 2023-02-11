@@ -20,19 +20,6 @@
 
 ## Avaliação  
 
-|  Avaliação  |Data      |Hora |Sala|  
-|:-----------:|:--------:|:---:|----|  
-|1º Frequência|11/10/2022|-|-|  
-|2º Frequência|22/11/2022|-|-|  
-|3º Frequência|20/12/2022|-|-|  
-|Exame Normal |04/01/2023|-|-|  
-|Exame Recurso|23/01/2023|-|-|  
-  
-|Avaliação  |Data |
-|:---------:|:---:|
-|1º Trabalho|-|  
-|2º Trabalho|-|  
-
 --- 
 ## Plano Curricular
 Introdução aos Sistemas Distribuídos (SD)

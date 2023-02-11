@@ -8,23 +8,6 @@
     link: [http://home.uevora.pt/~pds](http://home.uevora.pt/~pds)   
     Gabinete: CLAV-256
 
----
-## Avaliação  
-
-|  Avaliação  |Data      |Hora |Sala|  
-|:-----------:|:--------:|:---:|----|  
-|1º Frequência|31/10/2022|-|-|  
-|2º Frequência|05/12/2022|-|-|  
-|Exame Normal |11/01/2023|-|-|  
-|Exame Recurso|24/02/2023|-|-|  
-  
-|Avaliação  |Data |
-|:---------:|:---:|
-|1º Trabalho|-|  
-|2º Trabalho|-|  
-
-
-
 
 --- 
 ## Plano Curricular
@@ -51,6 +34,7 @@ Modelação de software
 
 Verificação e validação de software  
 - Testes de desenvolvimento, release e utilizador  
+
 
 ---  
 

@@ -21,16 +21,6 @@
 |[aula4](aulas/aula4)|02/03/2022|Teorico-Pratica|Operações entre autómatos; Python|
 |[aula5](aulas/aula5)|09/03/2022|Pratica|Resolução de exercicios; Python|
 
-## Avaliações  
-
-|Avaliação    |Data      |Hora |Duração|Sala    |
-|-------------|----------|:---:|:-----:|:------:| 
-|1º Frequência|15/03/2022|18:00|1:30     |CLAV-125|
-|2º Frequência|26/04/2022|18:00|1:30     |CLAV-125|
-|3º Frequência|17/05/2022|18:00|1:30     |CLAV-125|
-|Exame Normal |07/06/2022|-|-    |-|
-|Exame Recurso|21/06/2022|-|-    |-|  
-
 
 ---
 <h2>Plano Curricular:</h2>  

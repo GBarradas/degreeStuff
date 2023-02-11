@@ -15,24 +15,6 @@
 |[Aula 1](aulas/p1.md)|Pratica|12/09/2022|-|   
 |[Aula 2](aulas/p2.md)|Pratica|19/09/2022|-|  
    
- 
----  
-## Avaliação  
-
-|  Avaliação  |Data      |Hora |Sala|  
-|:-----------:|:--------:|:---:|----|  
-|1º Frequência|13/10/2022|-|-|  
-|2º Frequência|17/11/2022|-|-|  
-|3º Frequência|06/01/2023|-|-|  
-|Exame Normal |06/01/2023|-|-|  
-|Exame Recurso|25/01/2023|-|-|  
-  
-|Avaliação  |Data |
-|:---------:|:---:|
-|1º Trabalho|-|  
-|2º Trabalho|-|  
-
-
 
 --- 
 

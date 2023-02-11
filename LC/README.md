@@ -13,16 +13,6 @@
 |-----------------------|-------|-----------|------------------------|
 |[Aula 2](aulas/aula2)|14/02/2022|Teorico-Pratica|-|
 
----
-## Avaliações  
-
-|Avaliação    |Data      |Hora |Duração|Sala    |
-|-------------|----------|:---:|:-----:|:------:| 
-|1º Frequência|21/02/2022|11:30|1h     |CLAV-125|
-|2º Frequência|28/02/2022|11:30|1h     |CLAV-125|
-|3º Frequência|16/03/2022|11:30|1h     |CLAV-125|
-|Exame Normal |31/03/2022|-|-    |-|
-|Exame Recurso|14/06/2022|-|-    |-|  
 
 --- 
 ## Plano Curricular
@@ -36,6 +26,19 @@
     3.1. Definições Recursivas: Termos Recursivos, Relações e Funções Recursivas  
     3.2.Demonstração por Indução: Indução nos Números Naturais, Indução Estrutural  
   
+--- 
+# Ficheiros  
+
+🗂 [[parent directory]](..)  
+
+📂 [LC]()  
+&emsp;&emsp;📄[Logica proposicional](LC_10_logica_proposicional.pdf)  
+&emsp;&emsp;📄[Logica primeira ordem 1](LC_20_logica_primeira_ordem.pdf)    
+&emsp;&emsp;📄[Logica primeira ordem 2](LC_25_logica_primeira_ordem.pdf)  
+&emsp;&emsp;📄[Notas](notas_dnq.pdf)    
+&emsp;&emsp;📄[logica.py](logica.py)    
+ 
+
 
   <style>
      .red{
